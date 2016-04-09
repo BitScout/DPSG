@@ -1,0 +1,976 @@
+[
+  {
+    "typ": "Diözese",
+    "name": "Aachen",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Aachen-Land",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Aachen-Stadt",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Düren",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Eifel",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Grenzland",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Heinsberg",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Mönchengladbach",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Rhein",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Augsburg",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Donau-Ries",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Dillingen Stamm St. Ulrich – Link zum Freunde e.V"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Donauwörth Stamm Mangold von Wörth"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Gundelfingen Stamm Kaspar von Westernach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Neuburg Stamm Neuburg"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Nördlingen Stamm Nordillo"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Wallerstein Stamm Wikinger"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Iller",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Burgau Stamm Tilly"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Holzheim Stamm Las Casas"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Ichenhausen Stamm Ichenhausen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Krumbach Stamm Krumbach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Neu-Ulm"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Oberelchingen Stamm Oberelchingen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Obergessertshausen Stamm St. Peter"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Vöhringen Stamm Don Bosco"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Weißenhorn Stamm Franziskus"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Augsburg",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Aichach Stamm Otto von Wittelsbach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Bärenkeller Stamm St. Konrad"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Neusäß Stamm Neusäß"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Lechhausen Stamm Livingstone"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Friedberg Stamm Konradin"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Hochzoll Stamm St. Exupery"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Kissing Stamm Guy de Larigaudie"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Univiertel Stamm Salomon Idler"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Ulrich und Afra Stamm St. Ulrich und Afra"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Haunstetten Stamm Weiße Rose"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Rochus-Spiecker",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Kaufering Stamm Roncalli"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Landsberg Stamm M. Himmelfahrt"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Allgäu",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Buxheim Stamm Don Bosco"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Kaufbeuren Stamm St. Martin"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Kempten Stamm Kempten"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Lindenberg Stamm Lindenberg"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Lindau Stamm Livana – Lindau"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Marktoberdorf Stamm Cassiopeia"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Memmingen Stamm Hahpa Falo & Stamm Welfen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Ottobeuren Stamm Gaugraf Silach"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Bamberg",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Nürnberg/Fürth",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Sophie-Magdalena Scholl"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Maxmimilan Kolbe"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Josef-Allerheiligen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Ludwig"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Otto"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Unsere Liebe Frau"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Bezirk II",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Obermain",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Sankt Georg Friesen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Andechs-Meran Lichtenfels"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Andechs-Rothenau Bad Staffelstein"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Kilian Altenkunstadt"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Heilig Kreuz Bayreuth"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Nepomuk Burgkunstadt"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Schwabachgrund",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Aurachtal, Herzogenaurach/Aurachtal"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Bubenreuth, Bubenreuth"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Hl. Kreuz Erlangen-Anger"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Bonifaz Erlangen-Innenstadt"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Marien, Erlangen-Bruck"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Kunigunde, Uttenreuth"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Theresia, Erlangen-Sieglitzhof"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Tennenlohe, Erlangen-Tennenlohe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Berlin",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Charlottenburg-Wilmersdorf",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Phoenix"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Heilig Geist"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Friedrichshain-Kreuzberg",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "St. Bonifatius"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Mitte",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "St. Paulus"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Neukölln",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "St. Dominicus"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Spandau",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Anselm von Havelberg"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Lambertus"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Markus"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Steglitz-Zehlendorf",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Don Bosco"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Otto"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Michendorf",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Impeesa"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Potsdam",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Sanssouci"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Greifswald",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Boddenkieker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Eichstätt",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Essen",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Essen Borbeck/Frohnhausen",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Duisburg",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Oberhausen",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Bottrop/Gladbeck",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Ennepe-Ruhr",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Gelsenkirchen",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Sauerland",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Bochum & Wattenscheid",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Mülheim/Ruhr",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Essen Mitte-Nord-Ost",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Essen Süd",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Freiburg",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Wiesental - Hochrhein",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Baar",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Breisgau",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Bruchsal",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Emmendingen",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Hohenzollern",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Karlsruhe - Murgtal",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Kurpfalz",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Mannheim - Bergstraße",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Odenwald - Tauber",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Ortenau - Kinzigtal",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Pforzheim",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Bodensee",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Fulda",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Nord",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Maria Hilf, Bachrain"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Mirjam, Fulda-Johannesberg"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Andreas, Fulda-Neuenberg"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Jakobus, Hünfeld"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Michael, Marburg"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Mariä Himmelfahrt, Melsungen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Graf Folke Bernadotte, Vellmar"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Witta, Witzenhausen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Heimerad, Wolfhagen"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Süd",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Heilig Kreuz, Ahl/Salmünster"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Martin, Bad Orb"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Dom Helder Camara, Bruchköbel"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Shalom, Bruchköbel"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Paul, Großauheim"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Speerflug, Hanau"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Südwind, Maintal-Dörnigheim"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Barbarossa, Rodenbach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Bonifatius, Wächtersbach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Wartbaum, Windecken"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Jakobus, Wirtheim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Hildesheim",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Nordbezirk",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Hannoverbezirk",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Elmbezirk",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Ludwigsbezirk",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Harzbezirk",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Köln",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Bergisch Land",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Düsseldorf",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Erft",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Köln linksrheinisch",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Rhein-Erft",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Niederberg",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Sieg",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Voreifel",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Oberberg",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Bonn",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Siebengebirge",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Rhein-Berg",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Limburg",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Mainz",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Rhein-Main-Hessen",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Heldon",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Oberhessen",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "München",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Ebersberg",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Freising",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "München-Isar",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "München-Ost",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Oberland",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Rosenheim",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Ruperti-Mühldorf",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Würm-Amper",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Münster",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Osnabrück",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Paderborn",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Passau",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Regensburg",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Rottenburg-Stuttgart",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Speyer",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Trier",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Würzburg",
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Untermain",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "St. Kilian",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Main-Spessart",
+        "staemme": []
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Mainfranken",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Sankt Nikolaus"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Maternus"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Julius Kardinal Döpfner"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Konradin"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Stephanus"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Hattenhausen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Tilman Riemenschneider"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Stadtschwarzach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Volkach"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Guter Hirte"
+          }
+        ]
+      },
+      {
+        "typ": "Bezirk",
+        "name": "Genesis Nord",
+        "staemme": []
+      }
+    ]
+  },
+  {
+    "typ": "Diözese",
+    "name": "Magdeburg",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Erfurt",
+    "bezirke": []
+  },
+  {
+    "typ": "Diözese",
+    "name": "Hamburg",
+    "bezirke": []
+  }
+]
