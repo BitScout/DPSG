@@ -6,7 +6,52 @@
       {
         "typ": "Bezirk",
         "name": "Aachen-Land",
-        "staemme": []
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Brand-Kornelimünster"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Eilendorf"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Forster-Linde"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Funkenflug"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Grenzlandfalken"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Heilig Kreuz"
+          },
+          {
+            "typ": "Siedlung",
+            "name": "Jakobiner"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Adalbert"
+          },
+          {
+            "typ": "Stamm",
+            "name": "St. Josef"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Vennfüßler"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Westwind"
+          }
+        ]
       },
       {
         "typ": "Bezirk",
