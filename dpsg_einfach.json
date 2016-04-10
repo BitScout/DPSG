@@ -1,0 +1,254 @@
+{
+    "Aachen": {
+        "Aachen-Land": [
+            "Brand-Kornelimünster",
+            "Eilendorf",
+            "Forster-Linde",
+            "Funkenflug",
+            "Grenzlandfalken",
+            "Heilig Kreuz",
+            "Jakobiner",
+            "St. Adalbert",
+            "St. Josef",
+            "Vennfüßler",
+            "Westwind"
+        ],
+        "Aachen-Stadt": [],
+        "Düren": [],
+        "Eifel": [],
+        "Grenzland": [],
+        "Heinsberg": [],
+        "Mönchengladbach": [],
+        "Rhein": []
+    },
+    "Augsburg": {
+        "Donau-Ries": [
+            "Dillingen Stamm St. Ulrich – Link zum Freunde e.V",
+            "Donauwörth Stamm Mangold von Wörth",
+            "Gundelfingen Stamm Kaspar von Westernach",
+            "Neuburg Stamm Neuburg",
+            "Nördlingen Stamm Nordillo",
+            "Wallerstein Stamm Wikinger"
+        ],
+        "Iller": [
+            "Burgau Stamm Tilly",
+            "Holzheim Stamm Las Casas",
+            "Ichenhausen Stamm Ichenhausen",
+            "Krumbach Stamm Krumbach",
+            "Neu-Ulm",
+            "Oberelchingen Stamm Oberelchingen",
+            "Obergessertshausen Stamm St. Peter",
+            "Vöhringen Stamm Don Bosco",
+            "Weißenhorn Stamm Franziskus"
+        ],
+        "Augsburg": [
+            "Aichach Stamm Otto von Wittelsbach",
+            "Bärenkeller Stamm St. Konrad",
+            "Neusäß Stamm Neusäß",
+            "Lechhausen Stamm Livingstone",
+            "Friedberg Stamm Konradin",
+            "Hochzoll Stamm St. Exupery",
+            "Kissing Stamm Guy de Larigaudie",
+            "Univiertel Stamm Salomon Idler",
+            "St. Ulrich und Afra Stamm St. Ulrich und Afra",
+            "Haunstetten Stamm Weiße Rose"
+        ],
+        "Rochus-Spiecker": [
+            "Kaufering Stamm Roncalli",
+            "Landsberg Stamm M. Himmelfahrt"
+        ],
+        "Allgäu": [
+            "Buxheim Stamm Don Bosco",
+            "Kaufbeuren Stamm St. Martin",
+            "Kempten Stamm Kempten",
+            "Lindenberg Stamm Lindenberg",
+            "Lindau Stamm Livana – Lindau",
+            "Marktoberdorf Stamm Cassiopeia",
+            "Memmingen Stamm Hahpa Falo & Stamm Welfen",
+            "Ottobeuren Stamm Gaugraf Silach"
+        ]
+    },
+    "Bamberg": {
+        "Nürnberg\/Fürth": [
+            "Sophie-Magdalena Scholl",
+            "Maxmimilan Kolbe",
+            "Sankt Josef-Allerheiligen",
+            "Sankt Ludwig",
+            "Sankt Otto",
+            "Unsere Liebe Frau"
+        ],
+        "Bezirk II": [],
+        "Obermain": [
+            "Sankt Georg Friesen",
+            "Andechs-Meran Lichtenfels",
+            "Andechs-Rothenau Bad Staffelstein",
+            "Sankt Kilian Altenkunstadt",
+            "Heilig Kreuz Bayreuth",
+            "Sankt Nepomuk Burgkunstadt"
+        ],
+        "Schwabachgrund": [
+            "Aurachtal, Herzogenaurach\/Aurachtal",
+            "Bubenreuth, Bubenreuth",
+            "Hl. Kreuz Erlangen-Anger",
+            "St. Bonifaz Erlangen-Innenstadt",
+            "St. Marien, Erlangen-Bruck",
+            "St. Kunigunde, Uttenreuth",
+            "St. Theresia, Erlangen-Sieglitzhof",
+            "Tennenlohe, Erlangen-Tennenlohe"
+        ]
+    },
+    "Berlin": {
+        "Charlottenburg-Wilmersdorf": [
+            "Phoenix",
+            "Heilig Geist"
+        ],
+        "Friedrichshain-Kreuzberg": [
+            "St. Bonifatius"
+        ],
+        "Mitte": [
+            "St. Paulus"
+        ],
+        "Neukölln": [
+            "St. Dominicus"
+        ],
+        "Spandau": [
+            "Anselm von Havelberg",
+            "St. Lambertus",
+            "St. Markus"
+        ],
+        "Steglitz-Zehlendorf": [
+            "Don Bosco",
+            "St. Otto"
+        ],
+        "Michendorf": [
+            "Impeesa"
+        ],
+        "Potsdam": [
+            "Sanssouci"
+        ],
+        "Greifswald": [
+            "Boddenkieker"
+        ]
+    },
+    "Eichstätt": {},
+    "Essen": {
+        "Essen Borbeck\/Frohnhausen": [],
+        "Duisburg": [],
+        "Oberhausen": [],
+        "Bottrop\/Gladbeck": [],
+        "Ennepe-Ruhr": [],
+        "Gelsenkirchen": [],
+        "Sauerland": [],
+        "Bochum & Wattenscheid": [],
+        "Mülheim\/Ruhr": [],
+        "Essen Mitte-Nord-Ost": [],
+        "Essen Süd": []
+    },
+    "Freiburg": {
+        "Wiesental - Hochrhein": [],
+        "Baar": [],
+        "Breisgau": [],
+        "Bruchsal": [],
+        "Emmendingen": [],
+        "Hohenzollern": [],
+        "Karlsruhe - Murgtal": [],
+        "Kurpfalz": [],
+        "Mannheim - Bergstraße": [],
+        "Odenwald - Tauber": [],
+        "Ortenau - Kinzigtal": [],
+        "Pforzheim": [],
+        "Bodensee": []
+    },
+    "Fulda": {
+        "Nord": [
+            "Maria Hilf, Bachrain",
+            "Mirjam, Fulda-Johannesberg",
+            "St. Andreas, Fulda-Neuenberg",
+            "St. Jakobus, Hünfeld",
+            "St. Michael, Marburg",
+            "Mariä Himmelfahrt, Melsungen",
+            "Graf Folke Bernadotte, Vellmar",
+            "Witta, Witzenhausen",
+            "St. Heimerad, Wolfhagen"
+        ],
+        "Süd": [
+            "Heilig Kreuz, Ahl\/Salmünster",
+            "St. Martin, Bad Orb",
+            "Dom Helder Camara, Bruchköbel",
+            "Shalom, Bruchköbel",
+            "Sankt Paul, Großauheim",
+            "Speerflug, Hanau",
+            "Südwind, Maintal-Dörnigheim",
+            "Barbarossa, Rodenbach",
+            "St. Bonifatius, Wächtersbach",
+            "Wartbaum, Windecken",
+            "St. Jakobus, Wirtheim"
+        ]
+    },
+    "Hildesheim": {
+        "Nordbezirk": [],
+        "Hannoverbezirk": [],
+        "Elmbezirk": [],
+        "Ludwigsbezirk": [],
+        "Harzbezirk": []
+    },
+    "Köln": {
+        "Bergisch Land": [],
+        "Düsseldorf": [],
+        "Erft": [],
+        "Köln linksrheinisch": [],
+        "Rhein-Erft": [],
+        "Niederberg": [],
+        "Sieg": [],
+        "Voreifel": [],
+        "Oberberg": [],
+        "Bonn": [],
+        "Siebengebirge": [],
+        "Rhein-Berg": []
+    },
+    "Limburg": {},
+    "Mainz": {
+        "Rhein-Main-Hessen": [],
+        "Heldon": [],
+        "Oberhessen": []
+    },
+    "München": {
+        "Ebersberg": [],
+        "Freising": [],
+        "München-Isar": [],
+        "München-Ost": [],
+        "Oberland": [],
+        "Rosenheim": [],
+        "Ruperti-Mühldorf": [],
+        "Würm-Amper": []
+    },
+    "Münster": {},
+    "Osnabrück": {},
+    "Paderborn": {},
+    "Passau": {},
+    "Regensburg": {},
+    "Rottenburg-Stuttgart": {},
+    "Speyer": {},
+    "Trier": {},
+    "Würzburg": {
+        "Untermain": [],
+        "St. Kilian": [],
+        "Main-Spessart": [],
+        "Mainfranken": [
+            "Sankt Nikolaus",
+            "Sankt Maternus",
+            "Julius Kardinal Döpfner",
+            "Konradin",
+            "Sankt Stephanus",
+            "Hattenhausen",
+            "Tilman Riemenschneider",
+            "Stadtschwarzach",
+            "Volkach",
+            "Guter Hirte"
+        ],
+        "Genesis Nord": []
+    },
+    "Magdeburg": {},
+    "Erfurt": {},
+    "Hamburg": {}
+}
