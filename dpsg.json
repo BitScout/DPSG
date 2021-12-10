@@ -1016,6 +1016,97 @@
   {
     "typ": "Diözese",
     "name": "Hamburg",
-    "bezirke": []
+    "bezirke": [
+      {
+        "typ": "Bezirk",
+        "name": "Hamburg",
+        "staemme": [
+          {
+            "typ": "Stamm",
+            "name": "Camilo Torres"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Nepomuk"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Nelson Mandela"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Ansgar"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Geschwister Scholl"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Johannes Prassek"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Hedwig"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Digna Ochoa"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Große Freiheit"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Jacques Marquette"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Charles de Foucauld"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Kardinal Graf von Galen"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Klaus Störtebeker"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Don Bosco"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Mutter Teresa"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Sankt Martin"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Santa Lucia"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Stern des Nordens"
+          },
+          {
+            "typ": "Stamm",
+            "name": "Marcel Callo"
+          },
+          {
+            "typ": "Siedlung",
+            "name": "Wilder Weiher"
+          },
+          {
+            "typ": "Siedlung",
+            "name": "Damiano"
+          }
+        ]
+      }
+    ]
   }
 ]
