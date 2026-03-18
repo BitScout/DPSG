@@ -1,0 +1,776 @@
+{
+    "Aachen": {
+        "bezirke": {
+            "Aachen-Land": {
+                "staemme": {
+                    "Brand-Kornelimünster": {
+                        "typ": "Stamm"
+                    },
+                    "Eilendorf": {
+                        "typ": "Stamm"
+                    },
+                    "Forster-Linde": {
+                        "typ": "Stamm"
+                    },
+                    "Funkenflug": {
+                        "typ": "Stamm"
+                    },
+                    "Grenzlandfalken": {
+                        "typ": "Stamm"
+                    },
+                    "Heilig Kreuz": {
+                        "typ": "Stamm"
+                    },
+                    "Jakobiner": {
+                        "typ": "Siedlung"
+                    },
+                    "St. Adalbert": {
+                        "typ": "Stamm"
+                    },
+                    "St. Josef": {
+                        "typ": "Stamm"
+                    },
+                    "Vennfüßler": {
+                        "typ": "Stamm"
+                    },
+                    "Westwind": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Aachen-Stadt": {
+                "staemme": {}
+            },
+            "Düren": {
+                "staemme": {}
+            },
+            "Eifel": {
+                "staemme": {}
+            },
+            "Grenzland": {
+                "staemme": {}
+            },
+            "Heinsberg": {
+                "staemme": {}
+            },
+            "Mönchengladbach": {
+                "staemme": {}
+            },
+            "Rhein": {
+                "staemme": {}
+            }
+        }
+    },
+    "Augsburg": {
+        "bezirke": {
+            "Donau-Ries": {
+                "staemme": {
+                    "Dillingen Stamm St. Ulrich - Link zum Freunde e.V": {
+                        "typ": "Stamm"
+                    },
+                    "Donauwörth Stamm Mangold von Wörth": {
+                        "typ": "Stamm"
+                    },
+                    "Gundelfingen Stamm Kaspar von Westernach": {
+                        "typ": "Stamm"
+                    },
+                    "Neuburg Stamm Neuburg": {
+                        "typ": "Stamm"
+                    },
+                    "Nördlingen Stamm Nordillo": {
+                        "typ": "Stamm"
+                    },
+                    "Wallerstein Stamm Wikinger": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Iller": {
+                "staemme": {
+                    "Burgau Stamm Tilly": {
+                        "typ": "Stamm"
+                    },
+                    "Holzheim Stamm Las Casas": {
+                        "typ": "Stamm"
+                    },
+                    "Ichenhausen Stamm Ichenhausen": {
+                        "typ": "Stamm"
+                    },
+                    "Krumbach Stamm Krumbach": {
+                        "typ": "Stamm"
+                    },
+                    "Neu-Ulm": {
+                        "typ": "Stamm"
+                    },
+                    "Oberelchingen Stamm Oberelchingen": {
+                        "typ": "Stamm"
+                    },
+                    "Obergessertshausen Stamm St. Peter": {
+                        "typ": "Stamm"
+                    },
+                    "Vöhringen Stamm Don Bosco": {
+                        "typ": "Stamm"
+                    },
+                    "Weißenhorn Stamm Franziskus": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Augsburg": {
+                "staemme": {
+                    "Aichach Stamm Otto von Wittelsbach": {
+                        "typ": "Stamm"
+                    },
+                    "Bärenkeller Stamm St. Konrad": {
+                        "typ": "Stamm"
+                    },
+                    "Neusäß Stamm Neusäß": {
+                        "typ": "Stamm"
+                    },
+                    "Lechhausen Stamm Livingstone": {
+                        "typ": "Stamm"
+                    },
+                    "Friedberg Stamm Konradin": {
+                        "typ": "Stamm"
+                    },
+                    "Hochzoll Stamm St. Exupery": {
+                        "typ": "Stamm"
+                    },
+                    "Kissing Stamm Guy de Larigaudie": {
+                        "typ": "Stamm"
+                    },
+                    "Univiertel Stamm Salomon Idler": {
+                        "typ": "Stamm"
+                    },
+                    "St. Ulrich und Afra Stamm St. Ulrich und Afra": {
+                        "typ": "Stamm"
+                    },
+                    "Haunstetten Stamm Weiße Rose": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Rochus-Spiecker": {
+                "staemme": {
+                    "Kaufering Stamm Roncalli": {
+                        "typ": "Stamm"
+                    },
+                    "Landsberg Stamm M. Himmelfahrt": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Allgäu": {
+                "staemme": {
+                    "Buxheim Stamm Don Bosco": {
+                        "typ": "Stamm"
+                    },
+                    "Kaufbeuren Stamm St. Martin": {
+                        "typ": "Stamm"
+                    },
+                    "Kempten Stamm Kempten": {
+                        "typ": "Stamm"
+                    },
+                    "Lindenberg Stamm Lindenberg": {
+                        "typ": "Stamm"
+                    },
+                    "Lindau Stamm Livana - Lindau": {
+                        "typ": "Stamm"
+                    },
+                    "Marktoberdorf Stamm Cassiopeia": {
+                        "typ": "Stamm"
+                    },
+                    "Memmingen Stamm Hahpa Falo & Stamm Welfen": {
+                        "typ": "Stamm"
+                    },
+                    "Ottobeuren Stamm Gaugraf Silach": {
+                        "typ": "Stamm"
+                    }
+                }
+            }
+        }
+    },
+    "Bamberg": {
+        "bezirke": {
+            "Nürnberg\/Fürth": {
+                "staemme": {
+                    "Sophie-Magdalena Scholl": {
+                        "typ": "Stamm"
+                    },
+                    "Maxmimilan Kolbe": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Josef-Allerheiligen": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Ludwig": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Otto": {
+                        "typ": "Stamm"
+                    },
+                    "Unsere Liebe Frau": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Bezirk II": {
+                "staemme": {}
+            },
+            "Obermain": {
+                "staemme": {
+                    "Sankt Georg Friesen": {
+                        "typ": "Stamm"
+                    },
+                    "Andechs-Meran Lichtenfels": {
+                        "typ": "Stamm"
+                    },
+                    "Andechs-Rothenau Bad Staffelstein": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Kilian Altenkunstadt": {
+                        "typ": "Stamm"
+                    },
+                    "Heilig Kreuz Bayreuth": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Nepomuk Burgkunstadt": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Schwabachgrund": {
+                "staemme": {
+                    "Aurachtal, Herzogenaurach\/Aurachtal": {
+                        "typ": "Stamm"
+                    },
+                    "Bubenreuth, Bubenreuth": {
+                        "typ": "Stamm"
+                    },
+                    "Hl. Kreuz Erlangen-Anger": {
+                        "typ": "Stamm"
+                    },
+                    "St. Bonifaz Erlangen-Innenstadt": {
+                        "typ": "Stamm"
+                    },
+                    "St. Marien, Erlangen-Bruck": {
+                        "typ": "Stamm"
+                    },
+                    "St. Kunigunde, Uttenreuth": {
+                        "typ": "Stamm"
+                    },
+                    "St. Theresia, Erlangen-Sieglitzhof": {
+                        "typ": "Stamm"
+                    },
+                    "Tennenlohe, Erlangen-Tennenlohe": {
+                        "typ": "Stamm"
+                    }
+                }
+            }
+        }
+    },
+    "Berlin": {
+        "bezirke": {
+            "Charlottenburg-Wilmersdorf": {
+                "staemme": {
+                    "Phoenix": {
+                        "typ": "Stamm"
+                    },
+                    "Heilig Geist": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Friedrichshain-Kreuzberg": {
+                "staemme": {
+                    "St. Bonifatius": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Mitte": {
+                "staemme": {
+                    "St. Paulus": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Neukölln": {
+                "staemme": {
+                    "St. Dominicus": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Spandau": {
+                "staemme": {
+                    "Anselm von Havelberg": {
+                        "typ": "Stamm"
+                    },
+                    "St. Lambertus": {
+                        "typ": "Stamm"
+                    },
+                    "St. Markus": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Steglitz-Zehlendorf": {
+                "staemme": {
+                    "Don Bosco": {
+                        "typ": "Stamm"
+                    },
+                    "St. Otto": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Michendorf": {
+                "staemme": {
+                    "Impeesa": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Potsdam": {
+                "staemme": {
+                    "Sanssouci": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Greifswald": {
+                "staemme": {
+                    "Boddenkieker": {
+                        "typ": "Stamm"
+                    }
+                }
+            }
+        }
+    },
+    "Eichstätt": {
+        "staemme": {
+            "Eichstätt Dom": {
+                "typ": "Stamm",
+                "ort": "Eichstätt",
+                "email": "mitmachen@pfadfinder-eichstaett.de"
+            },
+            "Sankt Marien Gunzenhausen": {
+                "typ": "Stamm",
+                "web": "https://www.dpsg-gunzenhausen.de/"
+            },
+            "Münsterritter": {
+                "typ": "Stamm",
+                "web": "https://www.dpsg-muensterritter.de/",
+                "email": "kontakt@dpsg-muensterritter.de"
+            },
+            "Schwanstetten": {
+                "typ": "Stamm",
+                "ort": "Schwanstetten",
+                "email": "ansprechpartner.schwanstetten@dpsg-eichstaett.de"
+            }
+        }
+    },
+    "Essen": {
+        "bezirke": {
+            "Essen Borbeck\/Frohnhausen": {
+                "staemme": {}
+            },
+            "Duisburg": {
+                "staemme": {}
+            },
+            "Oberhausen": {
+                "staemme": {}
+            },
+            "Bottrop\/Gladbeck": {
+                "staemme": {}
+            },
+            "Ennepe-Ruhr": {
+                "staemme": {}
+            },
+            "Gelsenkirchen": {
+                "staemme": {}
+            },
+            "Sauerland": {
+                "staemme": {}
+            },
+            "Bochum & Wattenscheid": {
+                "staemme": {}
+            },
+            "Mülheim\/Ruhr": {
+                "staemme": {}
+            },
+            "Essen Mitte-Nord-Ost": {
+                "staemme": {}
+            },
+            "Essen Süd": {
+                "staemme": {}
+            }
+        }
+    },
+    "Freiburg": {
+        "bezirke": {
+            "Wiesental - Hochrhein": {
+                "staemme": {}
+            },
+            "Baar": {
+                "staemme": {}
+            },
+            "Breisgau": {
+                "staemme": {}
+            },
+            "Bruchsal": {
+                "staemme": {}
+            },
+            "Emmendingen": {
+                "staemme": {}
+            },
+            "Hohenzollern": {
+                "staemme": {}
+            },
+            "Karlsruhe - Murgtal": {
+                "staemme": {}
+            },
+            "Kurpfalz": {
+                "staemme": {}
+            },
+            "Mannheim - Bergstraße": {
+                "staemme": {}
+            },
+            "Odenwald - Tauber": {
+                "staemme": {}
+            },
+            "Ortenau - Kinzigtal": {
+                "staemme": {}
+            },
+            "Pforzheim": {
+                "staemme": {}
+            },
+            "Bodensee": {
+                "staemme": {}
+            }
+        }
+    },
+    "Fulda": {
+        "bezirke": {
+            "Nord": {
+                "staemme": {
+                    "Maria Hilf, Bachrain": {
+                        "typ": "Stamm"
+                    },
+                    "Mirjam, Fulda-Johannesberg": {
+                        "typ": "Stamm"
+                    },
+                    "St. Andreas, Fulda-Neuenberg": {
+                        "typ": "Stamm"
+                    },
+                    "St. Jakobus, Hünfeld": {
+                        "typ": "Stamm"
+                    },
+                    "St. Michael, Marburg": {
+                        "typ": "Stamm"
+                    },
+                    "Mariä Himmelfahrt, Melsungen": {
+                        "typ": "Stamm"
+                    },
+                    "Graf Folke Bernadotte, Vellmar": {
+                        "typ": "Stamm"
+                    },
+                    "Witta, Witzenhausen": {
+                        "typ": "Stamm"
+                    },
+                    "St. Heimerad, Wolfhagen": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Süd": {
+                "staemme": {
+                    "Heilig Kreuz, Ahl\/Salmünster": {
+                        "typ": "Stamm"
+                    },
+                    "St. Martin, Bad Orb": {
+                        "typ": "Stamm"
+                    },
+                    "Dom Helder Camara, Bruchköbel": {
+                        "typ": "Stamm"
+                    },
+                    "Shalom, Bruchköbel": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Paul, Großauheim": {
+                        "typ": "Stamm"
+                    },
+                    "Speerflug, Hanau": {
+                        "typ": "Stamm"
+                    },
+                    "Südwind, Maintal-Dörnigheim": {
+                        "typ": "Stamm"
+                    },
+                    "Barbarossa, Rodenbach": {
+                        "typ": "Stamm"
+                    },
+                    "St. Bonifatius, Wächtersbach": {
+                        "typ": "Stamm"
+                    },
+                    "Wartbaum, Windecken": {
+                        "typ": "Stamm"
+                    },
+                    "St. Jakobus, Wirtheim": {
+                        "typ": "Stamm"
+                    }
+                }
+            }
+        }
+    },
+    "Hildesheim": {
+        "bezirke": {
+            "Nordbezirk": {
+                "staemme": {}
+            },
+            "Hannoverbezirk": {
+                "staemme": {}
+            },
+            "Elmbezirk": {
+                "staemme": {}
+            },
+            "Ludwigsbezirk": {
+                "staemme": {}
+            },
+            "Harzbezirk": {
+                "staemme": {}
+            }
+        }
+    },
+    "Köln": {
+        "bezirke": {
+            "Bergisch Land": {
+                "staemme": {}
+            },
+            "Düsseldorf": {
+                "staemme": {}
+            },
+            "Erft": {
+                "staemme": {}
+            },
+            "Köln linksrheinisch": {
+                "staemme": {}
+            },
+            "Rhein-Erft": {
+                "staemme": {}
+            },
+            "Niederberg": {
+                "staemme": {}
+            },
+            "Sieg": {
+                "staemme": {}
+            },
+            "Voreifel": {
+                "staemme": {}
+            },
+            "Oberberg": {
+                "staemme": {}
+            },
+            "Bonn": {
+                "staemme": {}
+            },
+            "Siebengebirge": {
+                "staemme": {}
+            },
+            "Rhein-Berg": {
+                "staemme": {}
+            }
+        }
+    },
+    "Limburg": {
+        "bezirke": {}
+    },
+    "Mainz": {
+        "bezirke": {
+            "Rhein-Main-Hessen": {
+                "staemme": {}
+            },
+            "Heldon": {
+                "staemme": {}
+            },
+            "Oberhessen": {
+                "staemme": {}
+            }
+        }
+    },
+    "München": {
+        "bezirke": {
+            "Ebersberg": {
+                "staemme": {}
+            },
+            "Freising": {
+                "staemme": {}
+            },
+            "München-Isar": {
+                "staemme": {}
+            },
+            "München-Ost": {
+                "staemme": {}
+            },
+            "Oberland": {
+                "staemme": {}
+            },
+            "Rosenheim": {
+                "staemme": {}
+            },
+            "Ruperti-Mühldorf": {
+                "staemme": {}
+            },
+            "Würm-Amper": {
+                "staemme": {}
+            }
+        }
+    },
+    "Münster": {
+        "bezirke": {}
+    },
+    "Osnabrück": {
+        "bezirke": {}
+    },
+    "Paderborn": {
+        "bezirke": {}
+    },
+    "Passau": {
+        "bezirke": {}
+    },
+    "Regensburg": {
+        "bezirke": {}
+    },
+    "Rottenburg-Stuttgart": {
+        "bezirke": {}
+    },
+    "Speyer": {
+        "bezirke": {}
+    },
+    "Trier": {
+        "bezirke": {}
+    },
+    "Würzburg": {
+        "bezirke": {
+            "Untermain": {
+                "staemme": {}
+            },
+            "St. Kilian": {
+                "staemme": {}
+            },
+            "Main-Spessart": {
+                "staemme": {}
+            },
+            "Mainfranken": {
+                "staemme": {
+                    "Sankt Nikolaus": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Maternus": {
+                        "typ": "Stamm"
+                    },
+                    "Julius Kardinal Döpfner": {
+                        "typ": "Stamm"
+                    },
+                    "Konradin": {
+                        "typ": "Stamm"
+                    },
+                    "Sankt Stephanus": {
+                        "typ": "Stamm"
+                    },
+                    "Hattenhausen": {
+                        "typ": "Stamm"
+                    },
+                    "Tilman Riemenschneider": {
+                        "typ": "Stamm"
+                    },
+                    "Stadtschwarzach": {
+                        "typ": "Stamm"
+                    },
+                    "Volkach": {
+                        "typ": "Stamm"
+                    },
+                    "Guter Hirte": {
+                        "typ": "Stamm"
+                    }
+                }
+            },
+            "Genesis Nord": {
+                "staemme": {}
+            }
+        }
+    },
+    "Magdeburg": {
+        "bezirke": {}
+    },
+    "Erfurt": {
+        "bezirke": {}
+    },
+    "Hamburg": {
+        "staemme": {
+            "Camilo Torres": {
+                "typ": "Stamm"
+            },
+            "Nepomuk": {
+                "typ": "Stamm"
+            },
+            "Nelson Mandela": {
+                "typ": "Stamm"
+            },
+            "Sankt Ansgar": {
+                "typ": "Stamm"
+            },
+            "Geschwister Scholl": {
+                "typ": "Stamm"
+            },
+            "Johannes Prassek": {
+                "typ": "Stamm"
+            },
+            "Sankt Hedwig": {
+                "typ": "Stamm"
+            },
+            "Digna Ochoa": {
+                "typ": "Stamm"
+            },
+            "Große Freiheit": {
+                "typ": "Stamm"
+            },
+            "Jacques Marquette": {
+                "typ": "Stamm"
+            },
+            "Charles de Foucauld": {
+                "typ": "Stamm"
+            },
+            "Kardinal Graf von Galen": {
+                "typ": "Stamm"
+            },
+            "Klaus Störtebeker": {
+                "typ": "Stamm"
+            },
+            "Don Bosco": {
+                "typ": "Stamm"
+            },
+            "Mutter Teresa": {
+                "typ": "Stamm"
+            },
+            "Sankt Martin": {
+                "typ": "Stamm"
+            },
+            "Santa Lucia": {
+                "typ": "Stamm"
+            },
+            "Stern des Nordens": {
+                "typ": "Stamm"
+            },
+            "Marcel Callo": {
+                "typ": "Stamm"
+            },
+            "Wilder Weiher": {
+                "typ": "Siedlung"
+            },
+            "Damiano": {
+                "typ": "Siedlung"
+            }
+        }
+    }
+}

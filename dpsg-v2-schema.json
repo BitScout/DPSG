@@ -1,0 +1,76 @@
+{
+  "$id": "dpsg-json",
+  "title": "DPSG",
+  "description": "",
+  "type": "object",
+  "additionalProperties": false,
+  "patternProperties": {
+    "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "bezirke": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
+              "type": "object",
+              "properties": {
+                "staemme": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "patternProperties": {
+                    "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
+                      "type": "object",
+                      "required": ["typ"],
+                      "additionalProperties": false,
+                      "properties": {
+                        "typ": {
+                          "type": "string"
+                        },
+                        "ort": {
+                          "type": "string"
+                        },
+                        "email": {
+                          "type": "string"
+                        },
+                        "web": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "staemme": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
+              "type": "object",
+              "required": ["typ"],
+              "additionalProperties": false,
+              "properties": {
+                "typ": {
+                  "type": "string"
+                },
+                "ort": {
+                  "type": "string"
+                },
+                "email": {
+                  "type": "string"
+                },
+                "web": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
