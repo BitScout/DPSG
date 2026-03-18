@@ -31,11 +31,22 @@ foreach($input as $dioezeseKomplex) {
 			$dioezeseEinfach->$bezirkName = $bezirkEinfach;
 		}
 	}
-	
+
+    $staemmeEinfach = array();
+
+    if(property_exists($dioezeseKomplex, 'staemme') && is_array($dioezeseKomplex->staemme)) {
+        foreach($dioezeseKomplex->staemme as $stammKomplex) {
+            if(!is_object($stammKomplex)) {
+                continue;
+            }
+            array_push($staemmeEinfach, $stammKomplex->name);
+        }
+
+        $dioezeseEinfach = $staemmeEinfach;
+    }
+
 	$dioezeseName = $dioezeseKomplex->name;
 	$output->$dioezeseName = $dioezeseEinfach;
 }
 
 file_put_contents('dpsg_einfach.json', json_encode($output, JSON_PRETTY_PRINT + JSON_UNESCAPED_UNICODE));
-
-

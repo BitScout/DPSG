@@ -1,0 +1,63 @@
+{
+  "$schema": "dpsg-schema",
+  "$id": "dpsg-json",
+  "title": "DPSG",
+  "description": "",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "typ"],
+    "properties": {
+      "typ": {
+        "type": "string",
+        "enum": ["Diözese"]
+      },
+      "name": {
+        "type": "string",
+        "description": "Name der der Diözese / des Bezirks / des Stammes"
+      },
+      "bezirke": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["name", "staemme"],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "typ": {
+              "type": "string",
+              "enum": ["Bezirk"]
+            },
+            "staemme": {
+              "@ref": "#/$defs/staemme"
+            }
+          }
+        }
+      },
+      "staemme": {
+        "@ref": "#/$defs/staemme"
+      }
+    }
+  },
+  "$defs": {
+    "staemme": {
+      "type": "array",
+      "items": {
+        "stamm": {
+          "type": "object",
+          "required": ["name", "typ"],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "typ": {
+              "type": "string",
+              "enum": ["Stamm"]
+            }
+          }
+        }
+      }
+    }
+  }
+}
