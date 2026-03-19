@@ -490,7 +490,14 @@
   {
     "typ": "Diözese",
     "name": "Eichstätt",
-    "bezirke": []
+    "staemme": [
+      {
+        "typ": "Stamm",
+        "name": "Schwanstetten",
+        "ort": "Schwanstetten",
+        "email": "ansprechpartner.schwanstetten@dpsg-eichstaett.de"
+      }
+    ]
   },
   {
     "typ": "Diözese",

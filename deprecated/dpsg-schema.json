@@ -1,5 +1,4 @@
 {
-  "$schema": "dpsg-schema",
   "$id": "dpsg-json",
   "title": "DPSG",
   "description": "",
@@ -7,6 +6,7 @@
   "items": {
     "type": "object",
     "required": ["name", "typ"],
+    "additionalProperties": false,
     "properties": {
       "typ": {
         "type": "string",
@@ -14,20 +14,22 @@
       },
       "name": {
         "type": "string",
-        "description": "Name der der Diözese / des Bezirks / des Stammes"
+        "description": "Name der der Diözese"
       },
       "bezirke": {
         "type": "array",
         "items": {
           "type": "object",
-          "required": ["name", "staemme"],
+          "required": ["typ", "name", "staemme"],
+          "additionalProperties": false,
           "properties": {
-            "name": {
-              "type": "string"
-            },
             "typ": {
               "type": "string",
               "enum": ["Bezirk"]
+            },
+            "name": {
+              "type": "string",
+              "description": "Name des Bezirks"
             },
             "staemme": {
               "@ref": "#/$defs/staemme"
@@ -47,13 +49,20 @@
         "stamm": {
           "type": "object",
           "required": ["name", "typ"],
+          "additionalProperties": false,
           "properties": {
             "name": {
               "type": "string"
             },
             "typ": {
               "type": "string",
-              "enum": ["Stamm"]
+              "enum": ["Stamm", "Siedlung"]
+            },
+            "ort": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
             }
           }
         }

@@ -353,21 +353,86 @@
             "Eichstätt Dom": {
                 "typ": "Stamm",
                 "ort": "Eichstätt",
-                "email": "mitmachen@pfadfinder-eichstaett.de"
+                "web": "https://www.pfadfinder-eichstaett.de/",
+                "email": "mitmachen@pfadfinder-eichstaett.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/eichstaett"
             },
             "Sankt Marien Gunzenhausen": {
                 "typ": "Stamm",
-                "web": "https://www.dpsg-gunzenhausen.de/"
+                "ort": "Gunzenhausen",
+                "gruendung": 1955,
+                "web": "https://www.dpsg-gunzenhausen.de/",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/gunzenhausen"
             },
             "Münsterritter": {
                 "typ": "Stamm",
+                "ort": "Ingolstadt",
                 "web": "https://www.dpsg-muensterritter.de/",
-                "email": "kontakt@dpsg-muensterritter.de"
+                "email": "kontakt@dpsg-muensterritter.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/ingolstadt-muensterritter"
+            },
+            "St. Pius": {
+                "typ": "Stamm",
+                "ort": "Ingolstadt",
+                "gruendung": 1962,
+                "email": "stamm.pius@dpsg-eichstaett.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/ingolstadt-st-pius"
+            },
+            "Pfalzgraf Johann": {
+                "typ": "Stamm",
+                "ort": "Neumarkt i.d.OPf.",
+                "gruendung": 1949,
+                "web": "www.dpsg-neumarkt.de",
+                "email": "info@dpsg-neumarkt.de ",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/neumarkt-idopf"
+            },
+            "St. Michael ": {
+                "typ": "Stamm",
+                "ort": "Pleinfeld",
+                "gruendung": 1951,
+                "email": "Stamm.Pleinfeld@dpsg-eichstaett.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/pleinfeld"
+            },
+            "Horsadal": {
+                "typ": "Stamm",
+                "ort": "Roßtal",
+                "gruendung": 1990,
+                "web": "https://dpsg-rosstal.de/",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/rosstal"
             },
             "Schwanstetten": {
                 "typ": "Stamm",
                 "ort": "Schwanstetten",
-                "email": "ansprechpartner.schwanstetten@dpsg-eichstaett.de"
+                "gruendung": 2013,
+                "email": "ansprechpartner.schwanstetten@dpsg-eichstaett.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/schwanstetten"
+            },
+            "St. Emmeram ": {
+                "typ": "Stamm",
+                "ort": "Spalt",
+                "gruendung": 1951,
+                "email": "stamm.spalt@dpsg-eichstaett.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/spalt"
+            },
+            "Treuchtlingen": {
+                "typ": "Stamm",
+                "ort": "Treuchtlingen",
+                "web": "www.dpsg-treuchtlingen.de",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/treuchtlingen"
+            },
+            "Weißenburg": {
+                "typ": "Stamm",
+                "ort": "Weißenburg",
+                "gruendung": 1946,
+                "web": "https://www.dpsg-weissenburg.de/",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/weissenburg"
+            },
+            "St. Nikolaus ": {
+                "typ": "Stamm",
+                "ort": "Wendelstein",
+                "gruendung": 1976,
+                "web": "https://dpsgwendelstein.de/",
+                "quelle": "https://www.dpsg-eichstaett.de/index.php/vor-ort/wendelstein"
             }
         }
     },

@@ -31,10 +31,16 @@
                         "ort": {
                           "type": "string"
                         },
+                        "gruendung": {
+                          "type": "integer"
+                        },
                         "email": {
                           "type": "string"
                         },
                         "web": {
+                          "type": "string"
+                        },
+                        "quelle": {
                           "type": "string"
                         }
                       }
@@ -60,10 +66,16 @@
                 "ort": {
                   "type": "string"
                 },
+                "gruendung": {
+                  "type": "integer"
+                },
                 "email": {
                   "type": "string"
                 },
                 "web": {
+                  "type": "string"
+                },
+                "quelle": {
                   "type": "string"
                 }
               }
