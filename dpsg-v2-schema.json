@@ -8,14 +8,37 @@
     "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
       "type": "object",
       "additionalProperties": false,
+      "required": ["nummer"],
+      "anyOf": [
+        {"required": ["bezirke"]},
+        {"required": ["staemme"]}
+      ],
       "properties": {
+        "nummer": {
+          "type": "integer",
+          "description": "Offizielle Nummer der Diözese"
+        },
         "bezirke": {
           "type": "object",
           "additionalProperties": false,
           "patternProperties": {
             "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
               "type": "object",
+              "additionalProperties": false,
+              "required": ["nummer"],
               "properties": {
+                "nummer": {
+                  "type": "integer",
+                  "description": "Offizielle Nummer des Bezirks in der Diözese"
+                },
+                "status": {
+                  "type": "string",
+                  "description": "Wird als aktiv angenommen, wenn nicht gesetzt",
+                  "enum": ["aktiv", "unklar", "aufgelöst"]
+                },
+                "email": {
+                  "type": "string"
+                },
                 "staemme": {
                   "type": "object",
                   "additionalProperties": false,
@@ -26,22 +49,44 @@
                       "additionalProperties": false,
                       "properties": {
                         "typ": {
-                          "type": "string"
+                          "type": "string",
+                          "enum": ["Stamm", "Siedlung"]
                         },
                         "ort": {
-                          "type": "string"
+                          "type": "string",
+                          "description": "Stadt o. Ä., an dem der Stamm seinen Sitz hat"
+                        },
+                        "nummer": {
+                          "type": "integer",
+                          "description": "Offizielle Nummer des Stammes im Bezirk / in der Diözese"
+                        },
+                        "stammesnummer": {
+                          "type": "string",
+                          "description": "Vollständige Stammesnummer (??/??/??), da deren Mittelteil nicht immer aus dem Bezirk zu ermitteln ist, wenn dieser fehlt"
+                        },
+                        "status": {
+                          "type": "string",
+                          "description": "Wird als aktiv angenommen, wenn nicht gesetzt",
+                          "enum": ["aktiv", "unklar", "aufgelöst"]
                         },
                         "gruendung": {
-                          "type": "integer"
+                          "type": "integer",
+                          "description": "Gründungsjahr, ggf. als Siedlung"
                         },
                         "email": {
-                          "type": "string"
+                          "type": "string",
+                          "description": "Email-Adresse für offiziellen Kontakt"
                         },
                         "web": {
-                          "type": "string"
+                          "type": "string",
+                          "description": "Vollständige Adresse der Website"
                         },
-                        "quelle": {
-                          "type": "string"
+                        "quellen": {
+                          "type": "array",
+                          "description": "Array mit Web-Adressen, die als Quelle(n) herangezogen wurde(n)",
+                          "items": {
+                            "type": "string"
+                          }
                         }
                       }
                     }
@@ -61,22 +106,44 @@
               "additionalProperties": false,
               "properties": {
                 "typ": {
-                  "type": "string"
+                  "type": "string",
+                  "enum": ["Stamm", "Siedlung"]
                 },
                 "ort": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Stadt o. Ä., an dem der Stamm seinen Sitz hat"
+                },
+                "nummer": {
+                  "type": "integer",
+                  "description": "Offizielle Nummer des Stammes im Bezirk / in der Diözese"
+                },
+                "stammesnummer": {
+                  "type": "string",
+                  "description": "Vollständige Stammesnummer (??/??/??), da deren Mittelteil nicht immer aus dem Bezirk zu ermitteln ist, wenn dieser fehlt"
+                },
+                "status": {
+                  "type": "string",
+                  "description": "Wird als aktiv angenommen, wenn nicht gesetzt",
+                  "enum": ["aktiv", "unklar", "aufgelöst"]
                 },
                 "gruendung": {
-                  "type": "integer"
+                  "type": "integer",
+                  "description": "Gründungsjahr, ggf. als Siedlung"
                 },
                 "email": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Email-Adresse für offiziellen Kontakt"
                 },
                 "web": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Vollständige Adresse der Website"
                 },
-                "quelle": {
-                  "type": "string"
+                "quellen": {
+                  "type": "array",
+                  "description": "Array mit Web-Adressen, die als Quelle(n) herangezogen wurde(n)",
+                  "items": {
+                    "type": "string"
+                  }
                 }
               }
             }

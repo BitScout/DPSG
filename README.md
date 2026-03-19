@@ -4,47 +4,43 @@ Hier sollen alle Diözesen, Bezirke, Stämme und Siedlungen der DPSG maschinenle
 
 **Wer mag, kann gerne den Datenbestand erweitern, möglichst mit Hinweis auf die Quelle (Link).**
 
-Das Format sieht folgendermaßen aus:
+Eine grundlegende Quelle: https://www.dpsg.de/sites/default/files/2026-01/satzung_anhang_gruppierungen.pdf
 
-    [
-      {
-        "typ": "Diözese",
-        "name": "Aachen",
-        "bezirke": [
-          {
-            "typ": "Bezirk",
-            "name": "Aachen-Land",
-            "staemme": [
-              {
-                "typ": "Stamm",
-                "name": "Brand-Kornelimünster"
-              },
-              {
-                "typ": "Siedlung",
-                "name": "Jakobiner"
-              },
-              ...
-        ]
-      },
-      {
-        "typ": "Diözese",
-        "name": "Hamburg",
-          "staemme": [
-            {
-              "typ": "Stamm",
-              "name": "Brand-Kornelimünster"
-            },
-            {
-              "typ": "Stamm",
-              "name": "Eilendorf"
-            },
-            ...
+Das Format in der Version 2 sieht folgendermaßen aus:
 
-Weitere Felder pro Ebene wie z. B. der Ort sind denkbar.
-Eine Diözese kann jetzt auch direkt Stämme enthalten, wenn sie keine Bezirke hat.
-Für die `dpsg.json` gibt es nun auch ein JSON-Schema, mit dem diese validiert werden kann.
-
-Mit einer lokalen PHP-Umgebung kann aus der `dpsg.json` automatisch 
-die `dpsg_einfach.json` erzeugt werden: 
-
-`php converter.php`
+```
+{
+  "Eichstätt": {
+    "nummer": 5,
+    "staemme": {
+      "Eichstätt Dom": {
+        "typ": "Stamm",
+        "ort": "Eichstätt",
+        "web": "https://www.pfadfinder-eichstaett.de/",
+        "email": "mitmachen@pfadfinder-eichstaett.de",
+        "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/eichstaett"]
+      }
+    }
+  },
+  "Würzburg": {
+    "nummer": 22,
+    "bezirke": {
+      "Mainfranken": {
+        "nummer": 10,
+        "email": "bez-mfr@dpsg-wuerzburg.de",
+        "staemme": {
+          "Sankt Stephanus": {
+            "typ": "Stamm",
+            "ort": "Randersacker",
+            "nummer": 1,
+            "stammesnummer": "22/10/01",
+            "quellen": [
+              "https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```
