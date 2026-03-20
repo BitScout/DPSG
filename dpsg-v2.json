@@ -208,7 +208,7 @@
     "Bamberg": {
         "nummer": 3,
         "bezirke": {
-            "Nürnberg/Fürth": {
+            "Nürnberg\/Fürth": {
                 "nummer": 1,
                 "staemme": {
                     "Sophie-Magdalena Scholl": {
@@ -261,7 +261,7 @@
             "Schwabachgrund": {
                 "nummer": 4,
                 "staemme": {
-                    "Aurachtal, Herzogenaurach/Aurachtal": {
+                    "Aurachtal, Herzogenaurach\/Aurachtal": {
                         "typ": "Stamm"
                     },
                     "Bubenreuth, Bubenreuth": {
@@ -296,13 +296,13 @@
                 "typ": "Stamm",
                 "ort": "Berlin-Pankow",
                 "nummer": 1,
-                "stammesnummer": "04/00/01"
+                "stammesnummer": "04\/00\/01"
             },
             "Phoenix": {
                 "typ": "Stamm",
                 "ort": "Berlin-Charlottenburg",
                 "nummer": 5,
-                "stammesnummer": "04/01/05"
+                "stammesnummer": "04\/01\/05"
             },
             "Heilig Geist": {
                 "typ": "Stamm"
@@ -348,30 +348,38 @@
             "Eichstätt Dom": {
                 "typ": "Stamm",
                 "ort": "Eichstätt",
-                "web": "https://www.pfadfinder-eichstaett.de/",
+                "web": "https:\/\/www.pfadfinder-eichstaett.de\/",
                 "email": "mitmachen@pfadfinder-eichstaett.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/eichstaett"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/eichstaett"
+                ]
             },
             "Sankt Marien Gunzenhausen": {
                 "typ": "Stamm",
                 "ort": "Gunzenhausen",
                 "gruendung": 1955,
-                "web": "https://www.dpsg-gunzenhausen.de/",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/gunzenhausen"]
+                "web": "https:\/\/www.dpsg-gunzenhausen.de\/",
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/gunzenhausen"
+                ]
             },
             "Münsterritter": {
                 "typ": "Stamm",
                 "ort": "Ingolstadt",
-                "web": "https://www.dpsg-muensterritter.de/",
+                "web": "https:\/\/www.dpsg-muensterritter.de\/",
                 "email": "kontakt@dpsg-muensterritter.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/ingolstadt-muensterritter"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/ingolstadt-muensterritter"
+                ]
             },
             "St. Pius": {
                 "typ": "Stamm",
                 "ort": "Ingolstadt",
                 "gruendung": 1962,
                 "email": "stamm.pius@dpsg-eichstaett.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/ingolstadt-st-pius"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/ingolstadt-st-pius"
+                ]
             },
             "Pfalzgraf Johann": {
                 "typ": "Stamm",
@@ -379,55 +387,71 @@
                 "gruendung": 1949,
                 "web": "www.dpsg-neumarkt.de",
                 "email": "info@dpsg-neumarkt.de ",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/neumarkt-idopf"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/neumarkt-idopf"
+                ]
             },
             "St. Michael ": {
                 "typ": "Stamm",
                 "ort": "Pleinfeld",
                 "gruendung": 1951,
                 "email": "Stamm.Pleinfeld@dpsg-eichstaett.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/pleinfeld"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/pleinfeld"
+                ]
             },
             "Horsadal": {
                 "typ": "Stamm",
                 "ort": "Roßtal",
                 "gruendung": 1990,
-                "web": "https://dpsg-rosstal.de/",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/rosstal"]
+                "web": "https:\/\/dpsg-rosstal.de\/",
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/rosstal"
+                ]
             },
             "Schwanstetten": {
                 "typ": "Stamm",
                 "ort": "Schwanstetten",
                 "gruendung": 2013,
                 "email": "ansprechpartner.schwanstetten@dpsg-eichstaett.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/schwanstetten"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/schwanstetten"
+                ]
             },
             "St. Emmeram ": {
                 "typ": "Stamm",
                 "ort": "Spalt",
                 "gruendung": 1951,
                 "email": "stamm.spalt@dpsg-eichstaett.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/spalt"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/spalt"
+                ]
             },
             "Treuchtlingen": {
                 "typ": "Stamm",
                 "ort": "Treuchtlingen",
                 "web": "www.dpsg-treuchtlingen.de",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/treuchtlingen"]
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/treuchtlingen"
+                ]
             },
             "Weißenburg": {
                 "typ": "Stamm",
                 "ort": "Weißenburg",
                 "gruendung": 1946,
-                "web": "https://www.dpsg-weissenburg.de/",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/weissenburg"]
+                "web": "https:\/\/www.dpsg-weissenburg.de\/",
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/weissenburg"
+                ]
             },
             "St. Nikolaus ": {
                 "typ": "Stamm",
                 "ort": "Wendelstein",
                 "gruendung": 1976,
-                "web": "https://dpsgwendelstein.de/",
-                "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/wendelstein"]
+                "web": "https:\/\/dpsgwendelstein.de\/",
+                "quellen": [
+                    "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/wendelstein"
+                ]
             }
         }
     },
@@ -447,7 +471,7 @@
                 "status": "unklar",
                 "staemme": {}
             },
-            "Bottrop/Gladbeck": {
+            "Bottrop\/Gladbeck": {
                 "nummer": 4,
                 "staemme": {}
             },
@@ -467,7 +491,7 @@
                 "nummer": 8,
                 "staemme": {}
             },
-            "Mülheim/Ruhr": {
+            "Mülheim\/Ruhr": {
                 "nummer": 9,
                 "staemme": {}
             },
@@ -548,7 +572,7 @@
                 "typ": "Stamm",
                 "ort": "Fulda-Johannesberg",
                 "nummer": 14,
-                "stammesnummer": "08/11/14"
+                "stammesnummer": "08\/11\/14"
             },
             "St. Andreas, Fulda-Neuenberg": {
                 "typ": "Stamm"
@@ -571,7 +595,7 @@
             "St. Heimerad, Wolfhagen": {
                 "typ": "Stamm"
             },
-            "Heilig Kreuz, Ahl/Salmünster": {
+            "Heilig Kreuz, Ahl\/Salmünster": {
                 "typ": "Stamm"
             },
             "St. Martin, Bad Orb": {
@@ -740,7 +764,35 @@
     },
     "Münster": {
         "nummer": 14,
-        "bezirke": {}
+        "bezirke": {
+            "Niederrhein-Nord": {
+                "nummer": 1
+            },
+            "Oldenburg": {
+                "nummer": 2
+            },
+            "Borken": {
+                "nummer": 3
+            },
+            "Recklinghausen": {
+                "nummer": 4
+            },
+            "Steinfurt": {
+                "nummer": 5
+            },
+            "Warendorf": {
+                "nummer": 6
+            },
+            "Münster": {
+                "nummer": 7
+            },
+            "Niederrhein-Süd": {
+                "nummer": 8
+            },
+            "Coesfeld": {
+                "nummer": 9
+            }
+        }
     },
     "Osnabrück": {
         "nummer": 15,
@@ -748,7 +800,29 @@
     },
     "Paderborn": {
         "nummer": 16,
-        "bezirke": {}
+        "bezirke": {
+            "Dortmund": {
+                "nummer": 1
+            },
+            "Ruhr-Sauerland": {
+                "nummer": 2
+            },
+            "Soest-Hamm": {
+                "nummer": 3
+            },
+            "Hochsauerland": {
+                "nummer": 4
+            },
+            "Siegerland-Südsauerland": {
+                "nummer": 5
+            },
+            "OWL": {
+                "nummer": 6
+            },
+            "Corvey": {
+                "nummer": 8
+            }
+        }
     },
     "Passau": {
         "nummer": 17,
@@ -756,11 +830,58 @@
     },
     "Regensburg": {
         "nummer": 18,
-        "bezirke": {}
+        "bezirke": {
+            "Fichtelbezirk": {
+                "nummer": 1
+            },
+            "Burgenbezirk": {
+                "nummer": 2
+            },
+            "Hüttenbezirk": {
+                "nummer": 3
+            },
+            "Niederbayern": {
+                "nummer": 5
+            },
+            "Dombezirk": {
+                "nummer": 6
+            },
+            "Jurabezirk": {
+                "nummer": 7
+            }
+        }
     },
     "Rottenburg-Stuttgart": {
         "nummer": 19,
-        "bezirke": {}
+        "bezirke": {
+            "Stuttgart": {
+                "nummer": 1
+            },
+            "Neckar\/Filder": {
+                "nummer": 2
+            },
+            "Neckar": {
+                "nummer": 3
+            },
+            "Hohenstaufen": {
+                "nummer": 4
+            },
+            "Oberland": {
+                "nummer": 6
+            },
+            "Schwarzwald-Donau": {
+                "nummer": 7
+            },
+            "Ostalb": {
+                "nummer": 8
+            },
+            "Unterland": {
+                "nummer": 9
+            },
+            "Hohenlohe": {
+                "nummer": 11
+            }
+        }
     },
     "Speyer": {
         "nummer": 20,
@@ -785,7 +906,38 @@
     },
     "Trier": {
         "nummer": 21,
-        "bezirke": {}
+        "bezirke": {
+            "Koblenz": {
+                "nummer": 1
+            },
+            "Mittelmosel": {
+                "nummer": 2
+            },
+            "Rhein-Hunsrück-Nahe": {
+                "nummer": 3
+            },
+            "Rhein-Wied": {
+                "nummer": 4
+            },
+            "Saarbrücken": {
+                "nummer": 5
+            },
+            "Saar-Hochwald": {
+                "nummer": 6
+            },
+            "Schaumberg-Blies": {
+                "nummer": 7
+            },
+            "Sieg": {
+                "nummer": 8
+            },
+            "Trier": {
+                "nummer": 9
+            },
+            "Eifel \/ Ahr": {
+                "nummer": 10
+            }
+        }
     },
     "Würzburg": {
         "nummer": 22,
@@ -815,52 +967,66 @@
                         "ort": "Randersacker",
                         "nummer": 1,
                         "email": "DPSG_Randersacker@gmx.de",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Konradin": {
                         "typ": "Stamm",
                         "ort": "Ochsenfurt",
                         "nummer": 2,
                         "email": "dpsg.ochsenfurt@gmx.de",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Tilman Riemenschneider": {
                         "typ": "Stamm",
                         "ort": "Rimpar",
                         "nummer": 5,
-                        "web": "https://www.dpsg-rimpar.de/",
+                        "web": "https:\/\/www.dpsg-rimpar.de\/",
                         "email": "dpsgrimpar@googlemail.com",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Hattenhausen": {
                         "typ": "Stamm",
                         "ort": "Reichenberg",
                         "nummer": 6,
-                        "web": "https://www.stamm-hattenhausen.de/",
+                        "web": "https:\/\/www.stamm-hattenhausen.de\/",
                         "email": "stamm.reichenberg@pfadfinder.org",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Stadtschwarzach": {
                         "typ": "Stamm",
                         "ort": "Münsterschwarzach",
                         "nummer": 9,
-                        "web": "https://www.dpsg-schwarzach.de/",
+                        "web": "https:\/\/www.dpsg-schwarzach.de\/",
                         "email": "daniel.rohmfeld@dpsg-schwarzach.de",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Julius Kardinal Döpfner": {
                         "typ": "Stamm",
                         "ort": "Leinach",
                         "nummer": 11,
-                        "web": "https://www.dpsg-leinach.de/",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "web": "https:\/\/www.dpsg-leinach.de\/",
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Sankt Nikolaus": {
                         "typ": "Stamm",
                         "ort": "Eisingen",
                         "nummer": 12,
                         "email": "bernd.mueller@bistum-wuerzburg.de",
-                        "quellen": ["https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"]
+                        "quellen": [
+                            "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
+                        ]
                     },
                     "Guter Hirte": {
                         "typ": "Stamm",
@@ -872,14 +1038,18 @@
                         "ort": "Güntersleben",
                         "status": "unklar",
                         "gruendung": 2001,
-                        "quellen": ["https://900jahreguentersleben.wordpress.com/2013/07/27/der-festzug-der-reihe-nach-7-und-letzter-teil/"]
+                        "quellen": [
+                            "https:\/\/900jahreguentersleben.wordpress.com\/2013\/07\/27\/der-festzug-der-reihe-nach-7-und-letzter-teil\/"
+                        ]
                     },
                     "St. Bartholomäus ": {
                         "typ": "Siedlung",
                         "ort": "Volkach",
                         "nummer": 14,
                         "status": "aufgelöst",
-                        "quellen": ["https://www.scoutnet.de/gruppen/pfadfindergruppe-suchen/3446"]
+                        "quellen": [
+                            "https:\/\/www.scoutnet.de\/gruppen\/pfadfindergruppe-suchen\/3446"
+                        ]
                     },
                     "Sommerach": {
                         "typ": "Siedlung",

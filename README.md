@@ -16,9 +16,9 @@ Das Format in der Version 2 sieht folgendermaßen aus:
       "Eichstätt Dom": {
         "typ": "Stamm",
         "ort": "Eichstätt",
-        "web": "https://www.pfadfinder-eichstaett.de/",
+        "web": "https:\/\/www.pfadfinder-eichstaett.de\/",
         "email": "mitmachen@pfadfinder-eichstaett.de",
-        "quellen": ["https://www.dpsg-eichstaett.de/index.php/vor-ort/eichstaett"]
+        "quellen": ["https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/eichstaett"]
       }
     }
   },
@@ -33,9 +33,9 @@ Das Format in der Version 2 sieht folgendermaßen aus:
             "typ": "Stamm",
             "ort": "Randersacker",
             "nummer": 1,
-            "stammesnummer": "22/10/01",
+            "stammesnummer": "22\/10\/01",
             "quellen": [
-              "https://www.dpsg-wuerzburg.de/der-dv-wuerzburg/bezirke/mainfranken.html"
+              "https:\/\/www.dpsg-wuerzburg.de\/der-dv-wuerzburg\/bezirke\/mainfranken.html"
             ]
           }
         }
@@ -44,3 +44,7 @@ Das Format in der Version 2 sieht folgendermaßen aus:
   }
 }
 ```
+
+**Hinweis:** JSON sieht vor, dass jedem `/` ein `\` vorangestellt wird.
+Bei Verwendung dieser Datei muss also eine entsprechende Bibliothek verwendet werden
+oder die `\` müssen auf andere Art entfernt werden.
