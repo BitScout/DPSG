@@ -43,7 +43,7 @@
                   "type": "object",
                   "additionalProperties": false,
                   "patternProperties": {
-                    "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
+                    "^[A-Za-zÄÖÜäöüßé0-9,\\- /.&()+]+$": {
                       "type": "object",
                       "required": ["typ"],
                       "additionalProperties": false,
@@ -100,7 +100,7 @@
           "type": "object",
           "additionalProperties": false,
           "patternProperties": {
-            "^[A-Za-zÄÖÜäöüß,\\- /.&]+$": {
+            "^[A-Za-zÄÖÜäöüßé0-9,\\- /.&()+]+$": {
               "type": "object",
               "required": ["typ"],
               "additionalProperties": false,

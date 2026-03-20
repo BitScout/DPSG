@@ -4,7 +4,9 @@ Hier sollen alle Diözesen, Bezirke, Stämme und Siedlungen der DPSG maschinenle
 
 **Wer mag, kann gerne den Datenbestand erweitern, möglichst mit Hinweis auf die Quelle (Link).**
 
-Eine grundlegende Quelle: https://www.dpsg.de/sites/default/files/2026-01/satzung_anhang_gruppierungen.pdf
+Einige grundlegende Quellen:
+* https://www.dpsg.de/sites/default/files/2026-01/satzung_anhang_gruppierungen.pdf
+* https://www.dpsg.de/sites/default/files/2021-05/satzung_anhang_gruppierungen.pdf
 
 Das Format in der Version 2 sieht folgendermaßen aus:
 
