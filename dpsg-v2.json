@@ -10359,10 +10359,13 @@
                     "Sankt Maternus": {
                         "typ": "Stamm",
                         "ort": "Güntersleben",
-                        "status": "unklar",
+                        "nummer": 8,
+                        "stammesnummer": "22\/10\/08",
+                        "status": "aufgeloest",
                         "gruendungsjahr": 2001,
                         "quellen": [
-                            "https:\/\/900jahreguentersleben.wordpress.com\/2013\/07\/27\/der-festzug-der-reihe-nach-7-und-letzter-teil\/"
+                            "https:\/\/900jahreguentersleben.wordpress.com\/2013\/07\/27\/der-festzug-der-reihe-nach-7-und-letzter-teil\/",
+                            "https:\/\/www.scoutnet.de\/gruppen\/pfadfindergruppe-suchen\/796"
                         ]
                     },
                     "St. Bartholomäus ": {
