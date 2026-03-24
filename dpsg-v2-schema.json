@@ -1,7 +1,8 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema",
   "$id": "dpsg-json",
   "title": "DPSG",
-  "description": "",
+  "description": "Validierung für eine maschinenlesbare Auflistung aller Gruppierungen der Deutschen Pfadfinderschaft Sankt Georg",
   "type": "object",
   "additionalProperties": false,
   "patternProperties": {
@@ -45,7 +46,7 @@
                   "patternProperties": {
                     "^[A-Za-zÄÖÜäöüßé0-9,\\- /.&()+]+$": {
                       "type": "object",
-                      "required": ["typ"],
+                      "required": ["typ", "nummer", "stammesnummer"],
                       "additionalProperties": false,
                       "properties": {
                         "typ": {
@@ -102,7 +103,7 @@
           "patternProperties": {
             "^[A-Za-zÄÖÜäöüßé0-9,\\- /.&()+]+$": {
               "type": "object",
-              "required": ["typ"],
+              "required": ["typ", "nummer", "stammesnummer"],
               "additionalProperties": false,
               "properties": {
                 "typ": {
