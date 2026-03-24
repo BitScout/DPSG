@@ -449,14 +449,6 @@
             "Aachen-Land": {
                 "nummer": 6,
                 "staemme": {
-                    "Jakobiner": {
-                        "typ": "Siedlung",
-                        "status": "unklar"
-                    },
-                    "St. Josef": {
-                        "typ": "Stamm",
-                        "status": "unklar"
-                    },
                     "Deutschritter": {
                         "typ": "Stamm",
                         "nummer": 3,
