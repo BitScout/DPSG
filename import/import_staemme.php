@@ -1,11 +1,24 @@
 <?php
 
+$configs = [
+    "staemme" => [
+        "csv" => "staemme_offiziell.csv",
+        "typ" => "Stamm"
+    ],
+    "siedlungen" => [
+        "csv" => "siedlungen_offiziell.csv",
+        "typ" => "Siedlung"
+    ]
+];
+
+$useConfig = "siedlungen";
+
 $dpsg = json_decode(file_get_contents('../dpsg-v2.json'));
 
-$handle = fopen("staemme_offiziell.csv", "r");
+$handle = fopen($configs[$useConfig]["csv"], "r");
 if ($handle) {
     while (($line = fgets($handle)) !== false) {
-        handleLine($line, $dpsg);
+        handleLine($line, $dpsg, $configs[$useConfig]["typ"]);
     }
 
     fclose($handle);
@@ -14,7 +27,7 @@ if ($handle) {
 file_put_contents('../dpsg-v2.json', json_encode($dpsg, JSON_PRETTY_PRINT + JSON_UNESCAPED_UNICODE));
 
 
-function handleLine(string $line, stdClass $dpsg): void {
+function handleLine(string $line, stdClass $dpsg, $typ): void {
     $fields = explode("\t", $line);
 
     if (count($fields) != 2) {
@@ -50,12 +63,12 @@ function handleLine(string $line, stdClass $dpsg): void {
 
     echo " \t";
 
-    handleStamm($name, $ort, $nummer, $dpsg);
+    handleStamm($name, $ort, $nummer, $dpsg, $typ);
 
     echo "\n";
 }
 
-function handleStamm(string $name, ?string $ort, string $nummer, stdClass $dpsg): void {
+function handleStamm(string $name, ?string $ort, string $nummer, stdClass $dpsg, $typ): void {
     $nummerFields = explode("/", $nummer);
     $dioezesennummer = (int)$nummerFields[0];
     $bezirksnummer = (int)$nummerFields[1];
@@ -111,7 +124,7 @@ function handleStamm(string $name, ?string $ort, string $nummer, stdClass $dpsg)
     }
 
     $stamm = new stdClass();
-    $stamm->typ = "Stamm";
+    $stamm->typ = $typ;
     $stamm->nummer = $stammesnummer; // Nummer des Stammes im Bezirk
     $stamm->stammesnummer = $nummer; // Vollständige Stammesnummer
     $stamm->quellen = ["https://www.dpsg.de/sites/default/files/2026-01/satzung_anhang_gruppierungen.pdf"];

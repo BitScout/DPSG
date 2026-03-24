@@ -67,9 +67,9 @@
                         "status": {
                           "type": "string",
                           "description": "Wird als aktiv angenommen, wenn nicht gesetzt",
-                          "enum": ["aktiv", "unklar", "aufgelöst"]
+                          "enum": ["aktiv", "unklar", "aufgeloest"]
                         },
-                        "gruendung": {
+                        "gruendungsjahr": {
                           "type": "integer",
                           "description": "Gründungsjahr, ggf. als Siedlung"
                         },
@@ -124,9 +124,9 @@
                 "status": {
                   "type": "string",
                   "description": "Wird als aktiv angenommen, wenn nicht gesetzt",
-                  "enum": ["aktiv", "unklar", "aufgelöst"]
+                  "enum": ["aktiv", "unklar", "aufgeloest"]
                 },
-                "gruendung": {
+                "gruendungsjahr": {
                   "type": "integer",
                   "description": "Gründungsjahr, ggf. als Siedlung"
                 },
