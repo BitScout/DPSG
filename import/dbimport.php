@@ -37,6 +37,9 @@ foreach($inputFiles as $file) {
 }
 echo "\n\nImport abgeschlossen\n\n";
 
+validateImportedData($db);
+
+
 function importFile($db, $path) {
     preg_match('/(\d{4}-\d{2}-\d{2})/', $path, $matches);
     $date = trim($matches[1]);
@@ -92,4 +95,25 @@ function handleLine($db, $date, $line): ?string {
     $db->exec($sql);
 
     return $typ;
+}
+
+function validateImportedData($db) {
+    echo "\nStarte Validierung...\n";
+
+    $datumsListe = $db->querySingle("select group_concat(datum) alle_daten from datei");
+
+    $lueckentestStaemmeSql = "select * from staemme where instr('".$datumsListe."', datum) < 1;";
+    $lueckentestBezirkeSql = "select * from bezirke where instr('".$datumsListe."', datum) < 1;";
+
+    queryValidation($db, $lueckentestStaemmeSql, "Lücke in Stammes-Historie");
+    queryValidation($db, $lueckentestBezirkeSql, "Lücke in Bezirks-Historie");
+
+    echo "\nValidierung abgeschlossen.\n\n";
+}
+
+function queryValidation($db, $sql, $errorText) {
+    $results = $db->query($sql);
+    while ($row = $results->fetchArray()) {
+        echo $errorText."  ".$row['nummer']." \t".$row['namen']."\n";
+    }
 }
