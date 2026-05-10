@@ -1,5 +1,7 @@
 <?php
 
+$referenceFileName = "2021-07.txt";
+
 $dpsg = json_decode(file_get_contents('dpsg-v2.json'));
 
 $dioezesenNachNummer = [];
@@ -26,22 +28,23 @@ foreach($dpsg as $name => $dioezese) {
 echo "\n\n".count($stammesnummern)." Stämme insgesamt in dpsg-v2.json";
 
 
-$handle = fopen("import/staemme_offiziell.csv", "r");
+$handle = fopen("import/satzung_anhang_gruppierungen/".$referenceFileName, "r");
 if ($handle) {
     while (($line = fgets($handle)) !== false) {
         $split = explode("\t", $line);
 
-        if(count($split) != 2) {
-            echo "\nUnlesbare Zeile: ".$line;
+        if(count($split) != 3) {
+            echo "\n!!! Unlesbare Zeile: ".$line." (Enthält ".count($split)." Elemente)";
             continue;
         }
 
-        $stammesnummer = trim($split[1]);
+        $typ = trim($split[1]);
+        $stammesnummer = trim($split[2]);
 
         if (array_key_exists($stammesnummer, $stammesnummern)) {
             $stammesnummern[$stammesnummer] =+ 1;
         } else {
-            echo "\nStammesnummer fehlt im JSON: ".$line;
+            echo "\n!!! Stammesnummer fehlt im JSON: ".$line;
         }
     }
 
@@ -49,7 +52,7 @@ if ($handle) {
 
     foreach($stammesnummern as $stammesnummer => $cnt) {
         if($cnt != 1) {
-            echo "\nStammesnummer ".$stammesnummer." hat ".$cnt." Erwähnungen im offiziellen Dokument";
+            echo "\n!!! Stammesnummer ".$stammesnummer." hat ".$cnt." Erwähnungen im offiziellen Dokument";
         }
     }
 }
@@ -62,7 +65,7 @@ function handleBezirk(stdClass $bezirk, string $name, &$stammesnummern) {
 
         if (property_exists($stamm, "stammesnummer")) {
             if (array_key_exists($stamm->stammesnummer, $stammesnummern)) {
-                echo "\n\t\tSTAMM ".$name."\n\t\t\tDuplikat bei der Stammesnummer";
+                echo "\n!!! Duplikat bei der Stammesnummer";
             }
 
             $stammesnummern[$stamm->stammesnummer] = 0;
@@ -79,15 +82,21 @@ function handleStamm(stdClass $stamm, string $name) {
     // dann ignorieren wir, dass er keine offizielle Nummer hat.
     if(!$istNichtAktiv) {
         if (!property_exists($stamm, "nummer")) {
-            $error = "Keine Nummer";
+            $error = "!!! Keine Nummer";
         }
 
         if (!$hatStammesnummer) {
-            $error = "Keine Stammesnummer";
+            $error = "!!! Keine Stammesnummer";
         }
     }
 
+    echo "\n\t\tSTAMM ";
+    if($hatStammesnummer) {
+        echo $stamm->stammesnummer." ";
+    }
+    echo $name;
+
     if($error != null) {
-        echo "\n\t\tSTAMM ".$name."\n\t\t\t".$error;
+        echo "\n!!! ".$error;
     }
 }

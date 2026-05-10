@@ -1,6 +1,11 @@
 # DPSG
 
-Hier sollen alle Diözesen, Bezirke, Stämme und Siedlungen der DPSG maschinenlesbar im JSON-Format hinterlegt werden.
+**Status: Aktuell ist das Format V2 in Überarbeitung und kann sich noch ändern.**
+
+Hier sollen alle Diözesen, Bezirke, Stämme und Siedlungen der DPSG maschinenlesbar 
+im JSON-Format hinterlegt werden.
+Auch aufgelöste Stämme und Siedlungen sollen abgebildet werden,
+jedoch mit entsprechender `status`-Eigenschaft.
 
 **Wer mag, kann gerne den Datenbestand erweitern, möglichst mit Hinweis auf die Quelle (Link).**
 

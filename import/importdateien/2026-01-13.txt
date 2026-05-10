@@ -1,0 +1,1263 @@
+Aachen	Diözese	01/00/00
+Augsburg	Diözese	02/00/00
+Bamberg	Diözese	03/00/00
+Berlin	Diözese	04/00/00
+Eichstätt	Diözese	05/00/00
+Essen	Diözese	06/00/00
+Freiburg	Diözese	07/00/00
+Fulda	Diözese	08/00/00
+Hildesheim	Diözese	09/00/00
+Köln	Diözese	10/00/00
+Limburg	Diözese	11/00/00
+Mainz	Diözese	12/00/00
+München	Diözese	13/00/00
+Münster	Diözese	14/00/00
+Osnabrück	Diözese	15/00/00
+Paderborn	Diözese	16/00/00
+Passau	Diözese	17/00/00
+Regensburg	Diözese	18/00/00
+Rottenburg-Stuttgart	Diözese	19/00/00
+Speyer	Diözese	20/00/00
+Trier	Diözese	21/00/00
+Würzburg	Diözese	22/00/00
+Magdeburg	Diözese	31/00/00
+Erfurt	Diözese	32/00/00
+Hamburg	Diözese	33/00/00
+Rheinbezirk	Bezirk	01/01/00
+Grenzland	Bezirk	01/02/00
+Mönchengladbach	Bezirk	01/03/00
+Heinsberg	Bezirk	01/04/00
+Düren	Bezirk	01/05/00
+Aachen-Land	Bezirk	01/06/00
+Eifel	Bezirk	01/07/00
+Aachen-Stadt	Bezirk	01/08/00
+Donau-Ries	Bezirk	02/01/00
+Augsburg	Bezirk	02/02/00
+Rochus Spiecker	Bezirk	02/03/00
+Allgäu	Bezirk	02/04/00
+Iller	Bezirk	02/05/00
+Nürnberg/Fürth	Bezirk	03/01/00
+2	Bezirk	03/02/00
+Obermain	Bezirk	03/03/00
+Schwabachgrund	Bezirk	03/04/00
+Borbeck & Frohnhausen	Bezirk	06/01/00
+Duisburg	Bezirk	06/02/00
+Bottrop/Gladbeck	Bezirk	06/04/00
+Ennepe-Ruhr	Bezirk	06/05/00
+Gelsenkirchen	Bezirk	06/06/00
+Sauerland	Bezirk	06/07/00
+Bochum & Wattenscheid	Bezirk	06/08/00
+Mülheim / Ruhr	Bezirk	06/09/00
+Essen Mitte-Nord-Ost	Bezirk	06/10/00
+Essen-Süd	Bezirk	06/11/00
+Mannheim-Bergstraße	Bezirk	07/01/00
+Karlsruhe	Bezirk	07/02/00
+Ortenau-Kinzigtal	Bezirk	07/03/00
+Wiesental-Hochrhein	Bezirk	07/05/00
+Hohenzollern	Bezirk	07/06/00
+Bodensee	Bezirk	07/07/00
+Baar	Bezirk	07/08/00
+Kurpfalz	Bezirk	07/09/00
+Bruchsal	Bezirk	07/10/00
+Pforzheim	Bezirk	07/11/00
+Odenwald-Tauber	Bezirk	07/13/00
+Emmendingen	Bezirk	07/14/00
+Breisgau	Bezirk	07/15/00
+Ludwig	Bezirk	09/01/00
+Harz	Bezirk	09/02/00
+Elm	Bezirk	09/03/00
+Nord	Bezirk	09/04/00
+Hannover	Bezirk	09/05/00
+Bergisch Land	Bezirk	10/01/00
+Düsseldorf	Bezirk	10/03/00
+Erft	Bezirk	10/04/00
+Köln Linksrheinisch	Bezirk	10/05/00
+Rhein - Erft	Bezirk	10/06/00
+Niederberg	Bezirk	10/07/00
+Sieg	Bezirk	10/09/00
+Voreifel	Bezirk	10/10/00
+Bonn	Bezirk	10/12/00
+Siebengebirge	Bezirk	10/13/00
+Rhein Berg	Bezirk	10/14/00
+Oberhessen	Bezirk	12/01/00
+Rhein-Main-Hessen	Bezirk	12/02/00
+Heldon	Bezirk	12/03/00
+München-Isar	Bezirk	13/12/00
+München - Ost	Bezirk	13/13/00
+Würm - Amper	Bezirk	13/14/00
+Freising	Bezirk	13/15/00
+Ruperti - Mühldorf	Bezirk	13/16/00
+Ebersberg	Bezirk	13/17/00
+Rosenheim	Bezirk	13/19/00
+Oberland	Bezirk	13/20/00
+Niederrhein-Nord	Bezirk	14/01/00
+Oldenburg	Bezirk	14/02/00
+Borken	Bezirk	14/03/00
+Recklinghausen	Bezirk	14/04/00
+Steinfurt	Bezirk	14/05/00
+Warendorf	Bezirk	14/06/00
+Münster	Bezirk	14/07/00
+Niederrhein-Süd	Bezirk	14/08/00
+Coesfeld	Bezirk	14/09/00
+Dortmund	Bezirk	16/01/00
+Ruhr-Sauerland	Bezirk	16/02/00
+Soest-Hamm	Bezirk	16/03/00
+Hochsauerland	Bezirk	16/04/00
+Siegerland-Südsauerland	Bezirk	16/05/00
+OWL	Bezirk	16/06/00
+Corvey	Bezirk	16/08/00
+Fichtelbezirk	Bezirk	18/01/00
+Burgenbezirk	Bezirk	18/02/00
+Hüttenbezirk	Bezirk	18/03/00
+Niederbayern	Bezirk	18/05/00
+Dombezirk	Bezirk	18/06/00
+Jurabezirk	Bezirk	18/07/00
+Stuttgart	Bezirk	19/01/00
+Neckar/Filder	Bezirk	19/02/00
+Neckar	Bezirk	19/03/00
+Hohenstaufen	Bezirk	19/04/00
+Oberland	Bezirk	19/06/00
+Schwarzwald-Donau	Bezirk	19/07/00
+Ostalb	Bezirk	19/08/00
+Unterland	Bezirk	19/09/00
+Hohenlohe	Bezirk	19/11/00
+Trifels	Bezirk	20/02/00
+Ludwigshafen	Bezirk	20/03/00
+Saarpfalz	Bezirk	20/04/00
+Haardt	Bezirk	20/05/00
+Koblenz	Bezirk	21/01/00
+Mittelmosel	Bezirk	21/02/00
+Rhein-Hunsrück-Nahe	Bezirk	21/03/00
+Rhein-Wied	Bezirk	21/04/00
+Saarbrücken	Bezirk	21/05/00
+Saar-Hochwald	Bezirk	21/06/00
+Schaumberg-Blies	Bezirk	21/07/00
+Sieg	Bezirk	21/08/00
+Trier	Bezirk	21/09/00
+Eifel / Ahr	Bezirk	21/10/00
+Untermain	Bezirk	22/01/00
+St. Kilian	Bezirk	22/03/00
+Genesis Nord	Bezirk	22/05/00
+Main-Spessart	Bezirk	22/08/00
+Mainfranken	Bezirk	22/10/00
+Krefeld-Cracau, St. Elisabeth	Stamm	01/01/01
+Krefeld, St. Norbertus	Stamm	01/01/02
+Krefeld, Inrath	Stamm	01/01/03
+Linn	Stamm	01/01/05
+Meerbusch-Lank-Latum, Lank Rheinfranken	Stamm	01/01/06
+Krefeld-Uerdingen/Ostgoten	Stamm	01/01/07
+Krefeld-Forstwald	Stamm	01/01/08
+Krefeld-Lindenthal, Michael	Stamm	01/01/09
+Krefeld-Hüls, Raubritter	Stamm	01/01/10
+Krefeld, Kreuz-Ritter	Stamm	01/01/11
+Schiefbahn, St. Hubertus	Stamm	01/02/01
+St. Lambertus Breyell	Stamm	01/02/02
+Kaldenkirchen, St. Clemens	Stamm	01/02/04
+Viersen, St. Remigius	Stamm	01/02/05
+St. Sebastian, Lobberich	Stamm	01/02/06
+St. Vitus Oedt	Stamm	01/02/07
+Hinsbeck, St. Peter	Stamm	01/02/08
+Dülken	Stamm	01/02/09
+Kempen	Stamm	01/02/12
+Tönisvorst, St. Tönis	Stamm	01/02/13
+Kempen, St. Hubert	Stamm	01/02/14
+Willich-Wekeln, St. Katharina	Stamm	01/02/15
+Mönchengladbach, Scheuburg	Stamm	01/03/01
+Mönchengladbach, Kreuzfahrer	Stamm	01/03/02
+Mönchengladbach, Giesenkirchen	Stamm	01/03/03
+Mönchengladbach-Rheydt, Cityscouts	Stamm	01/03/04
+Mönchengladbach, Windberg	Stamm	01/03/05
+Jüchen-Bedburdyck, St. Martinus	Stamm	01/03/06
+Mönchengladbach, Rabenhorst	Stamm	01/03/08
+Mönchengladbach, Bettrath-Neuwerk	Stamm	01/03/09
+Mönchengladbach-Holt, Martin-Luther-King	Stamm	01/03/10
+Mönchengladbach-Eicken, Trotzenburg	Stamm	01/03/12
+Otzenrath	Stamm	01/03/14
+Salier Meerkamp eV	Stamm	01/03/15
+Hochneukirch	Stamm	01/03/16
+Mönchengladbach-Rheydt, Fabula	Stamm	01/03/17
+Gangelt, St. Nikolaus	Stamm	01/04/03
+Wegberg, Titus Brandsma	Stamm	01/04/10
+Wegberg-Dalheim	Stamm	01/04/12
+Erkelenz-Mitte, St. Lambertus	Stamm	01/04/13
+Langerwehe	Stamm	01/05/01
+Merzenich, St. Laurentius	Stamm	01/05/03
+Jülich, Franz von Sales	Stamm	01/05/05
+Linnich	Stamm	01/05/06
+Siersdorf, Kreuzritter	Stamm	01/05/08
+Düren-Arnoldsweiler, St. Arnold	Stamm	01/05/09
+Düren, Wildgänse St. Anna	Stamm	01/05/15
+Eschweiler-Roehe, Deutschritter	Stamm	01/06/03
+Dürwiss, St. Bonifatius	Stamm	01/06/04
+Eschweiler-Röthgen, Hohensteiner	Stamm	01/06/05
+Stolberg	Stamm	01/06/06
+Stolberg-Schevenh., Wehebachthaler	Stamm	01/06/09
+Stolberg-Breinig/Dorff	Stamm	01/06/12
+Kohlscheid I	Stamm	01/06/14
+Würselen, Bardenberg	Stamm	01/06/16
+Herzogenrath, Kämpchen-Bank	Stamm	01/06/17
+Wuerselen, St. Pius X	Stamm	01/06/20
+Alsdorf-Mariadorf, St. Marien	Stamm	01/06/21
+Blankenheim-Bl.dorf, Burgfalken	Stamm	01/07/02
+Hellenthal	Stamm	01/07/03
+Kall / Eifel	Stamm	01/07/04
+Blankenheim-Rohr	Stamm	01/07/05
+Simmerath-Lammersd., Maximilian Kolbe	Stamm	01/07/06
+Hürtgenwald-Vossenack	Stamm	01/07/11
+Grenzlandfalken	Stamm	01/08/01
+Aachen, Forster-Linde	Stamm	01/08/03
+Heilig Kreuz	Stamm	01/08/05
+Aachen-Brand, Kornelimünster	Stamm	01/08/06
+Aachen-Eilendorf	Stamm	01/08/07
+Aachen-Laurensberg, Funkenflug	Stamm	01/08/08
+Westwind	Stamm	01/08/10
+Aachen-Oberforst., Vennfüssler	Stamm	01/08/11
+Aachen-Innenstadt, St. Adalbert	Stamm	01/08/12
+Donauwörth, Mangold v. Wörth	Stamm	02/01/02
+Gundelfingen, Kaspar v. Westernach	Stamm	02/01/03
+Nördlingen, Nordilo	Stamm	02/01/04
+Wallerstein, Wikinger	Stamm	02/01/06
+Neuburg a.d.Donau	Stamm	02/01/08
+Aichach, Otto von Wittelsbach	Stamm	02/02/01
+Augsburg, Livingstone	Stamm	02/02/05
+Augsburg-Hochzoll, St. Exupéry	Stamm	02/02/06
+Augsburg-Universitätsviertel, Salomon-Idler	Stamm	02/02/07
+Augsburg, St. Konrad	Stamm	02/02/08
+Augsburg, St. Ulrich & Afra	Stamm	02/02/10
+Stadtbergen	Stamm	02/02/12
+Friedberg, Konradin	Stamm	02/02/13
+Augsburg-Haunst., Weiße Rose	Stamm	02/02/15
+Kissing, Guy de Larigaudie	Stamm	02/02/16
+Neusäß	Stamm	02/02/18
+Landsberg, M. Himmelfahrt	Stamm	02/03/01
+Kaufering, Roncalli	Stamm	02/03/03
+Kaufbeuren, St. Martin	Stamm	02/04/02
+Lindenberg, Tilia Monte	Stamm	02/04/08
+Ottobeuren, Gaugraf Silach	Stamm	02/04/13
+Burgau, Tilly	Stamm	02/05/02
+Holzheim, Las Casas	Stamm	02/05/03
+Ichenhausen	Stamm	02/05/04
+Krumbach, St. Michael	Stamm	02/05/05
+Oberelchingen	Stamm	02/05/07
+Vöhringen, Don Bosco	Stamm	02/05/08
+Weißenhorn, St. Franziskus	Stamm	02/05/09
+Obergessertshausen, St. Peter	Stamm	02/05/10
+St. Ludwig Nürnberg	Stamm	03/01/04
+Nürnberg, Maximilian Kolbe	Stamm	03/01/05
+Nürnberg-Laufamholz, St. Otto	Stamm	03/01/06
+Fürth - Mannhof, Sophie Magdalena Scholl	Stamm	03/01/07
+Nürnberg-Sebald, zu Unserer Lieben Frau	Stamm	03/01/08
+Nürnberg, St.Josef - Allerheiligen	Stamm	03/01/11
+Höchstadt-Hohestete	Stamm	03/02/01
+Bamberg, Bischof Otto	Stamm	03/02/02
+Uffenheim, Herz Jesu	Stamm	03/02/03
+Hirschaid, St. Vitus	Stamm	03/02/06
+Neustadt a.d.Aisch, St. Johannis	Stamm	03/02/07
+Bamberg, St. Josef	Stamm	03/02/08
+Altenkunstadt, St. Kilian	Stamm	03/03/01
+Lichtenfels, Andechs-Meran	Stamm	03/03/02
+Bad Staffelstein, Andechs-Rothenau	Stamm	03/03/03
+Kronach-Friesen, St. Georg	Stamm	03/03/05
+Bayreuth, Hl. Kreuz	Stamm	03/03/08
+Erlangen-Sieglitzhof, St. Theresia	Stamm	03/04/01
+Erlangen, St. Bonifaz	Stamm	03/04/02
+Uttenreuth, St. Kunigunde	Stamm	03/04/03
+Tennenlohe	Stamm	03/04/05
+Aurachtal - Herzogenaurach	Stamm	03/04/06
+St. Marien, Erlangen Bruck	Stamm	03/04/08
+Bubenreuth	Stamm	03/04/09
+Berlin-Pankow, St. Georg	Stamm	04/00/01
+Berlin-Moabit, St. Paulus	Stamm	04/01/01
+Berlin-Neukölln (Gropiusstadt), Dominicus	Stamm	04/01/02
+Berlin-Lankwitz, Don Bosco	Stamm	04/01/04
+Berlin-Charlottenburg, St. Ludwig, Phoenix	Stamm	04/01/05
+Berlin, St. Lambertus	Stamm	04/01/06
+Berlin-Zehlendorf, St. Otto	Stamm	04/01/09
+Berlin, St. Bonifatius	Stamm	04/01/10
+Berlin-Spandau, Anselm v. Havelberg	Stamm	04/01/11
+Michendorf, Impeesa	Stamm	04/01/14
+Berlin-Spandau, St. Markus	Stamm	04/01/15
+Berlin-Charlottenburg, Heilig Geist	Stamm	04/01/16
+Greifswald, Boddenkieker	Stamm	04/02/03
+Potsdam, Sanssouci	Stamm	04/02/07
+Neumarkt, Pfalzgraf Johann	Stamm	05/01/02
+Wendelstein, St. Nikolaus	Stamm	05/01/04
+Roßtal, Horsadal	Stamm	05/01/06
+Schwanstetten-Rednitzhembach	Stamm	05/01/07
+Eichstätt Dom	Stamm	05/02/01
+Weißenburg, Deutschritter	Stamm	05/02/02
+Pleinfeld, St. Michael	Stamm	05/02/04
+Treuchtlingen	Stamm	05/02/05
+Spalt, St. Emmeram	Stamm	05/03/02
+Gunzenhausen	Stamm	05/03/03
+Ingolstadt, Münsterritter	Stamm	05/04/01
+Ingolstadt, St. Pius	Stamm	05/04/05
+Essen-Frintrop, St. Josef	Stamm	06/01/06
+Essen-Schönebeck, St. Ant. Abbas	Stamm	06/01/08
+Essen-Frohnhausen, Dom Helder Camara	Stamm	06/01/14
+Essen-Beding., St. Franziskus	Stamm	06/01/22
+Essen-Frohnhausen, St. Augustinus	Stamm	06/01/27
+Duisburg-Huckin.,Marc.Callo/St. Peter und Paul	Stamm	06/02/01
+Duisburg-Buchh., Jud. Th./K.Martin	Stamm	06/02/05
+Duisburg-Großenbaum, St. Franziskus	Stamm	06/02/06
+Duisburg-Serm, Herz Jesu	Stamm	06/02/08
+Duisburg-Buchholz, Hl. Geist	Stamm	06/02/10
+Duisburg-Hamborn, St. Peter Marxloh	Stamm	06/02/11
+Duisburg-Rahm, St. Hubertus	Stamm	06/02/12
+Duisburg, Abtei Hamborn	Stamm	06/02/14
+Duisburg-Buchholz, St. Nikolaus	Stamm	06/02/15
+Duisburg-Fahrn, St. Georg	Stamm	06/02/17
+Gladbeck-Mitte, St. Johannes	Stamm	06/04/01
+Gladbeck-Zweckel, Herz Jesu	Stamm	06/04/02
+Bottrop-Eigen, St. Pius / Philippo Neri	Stamm	06/04/03
+Bottrop, St. Peter	Stamm	06/04/04
+Bottrop, Herz Jesu, St. Barbara	Stamm	06/04/06
+Gladbeck-Rentfort, St. Josef	Stamm	06/04/10
+Bottrop, Impeesa	Stamm	06/04/11
+Gladbeck-Ellinghorst, Elisabeth	Stamm	06/04/12
+Gevelsberg, St. Engelbert	Stamm	06/05/01
+Schwelm, St. Marien	Stamm	06/05/02
+Ennepetal, Herz Jesu	Stamm	06/05/03
+Witten-Buchholz, St. Antonius	Stamm	06/05/04
+Sprockhövel, St. Januarius	Stamm	06/05/05
+Sprockhövel-Hasslinghausen, Sankt Josef	Stamm	06/05/06
+Bredenscheid, St.Mariä Empfängnis	Stamm	06/05/07
+Hattingen-Mitte, Peter und Paul	Stamm	06/05/08
+Wetter-Volmarstein, St. Augustinus u. Monika	Stamm	06/05/09
+Hattingen-Niederbonsfeld, Isenburg	Stamm	06/05/10
+Hattingen - Winz-Baak, Heilig Geist	Stamm	06/05/11
+Hattingen-Niederwenigern, Die Wennischen	Stamm	06/05/13
+Janusz Korczak Wetter-Wengern e.V.	Stamm	06/05/14
+Gelsenkirchen-Horst, Albino Luciani	Stamm	06/06/01
+Gelsenkirchen-Feldmark, Kreuzritter	Stamm	06/06/04
+Gelsenkirchen-Schalke,Graf v.Galen	Stamm	06/06/05
+Gelsenkirchen-Ückendorf, Thomas Morus	Stamm	06/06/06
+Exodus	Stamm	06/06/07
+Elisabeth von Thüringen	Stamm	06/06/08
+Gelsenkirchen, Rochus Spiecker	Stamm	06/06/09
+Gelsenkirchen-Buer, Don Bosco	Stamm	06/06/11
+Martin Luther King	Stamm	06/06/13
+Gelsenkirchen, Herz Jesu, Angelo Giuseppe Roncalli	Stamm	06/06/16
+Halver-Schalksmühle, Don Bosco	Stamm	06/07/01
+Neuenrade, Steve Biko	Stamm	06/07/03
+Werdohl, St. Michael	Stamm	06/07/04
+Lüdenscheid, St. Medardus	Stamm	06/07/05
+Plettenberg, Alavanyo	Stamm	06/07/06
+Dahl/Rummenohl, Don Bosco	Stamm	06/07/07
+Bochum-Altenbochum, Liebfrauen	Stamm	06/08/01
+Bochum-Langendreer, Canchanabury	Stamm	06/08/02
+Bochum, Meinolphus	Stamm	06/08/03
+Bochum-Gerthe, St. Elisabeth	Stamm	06/08/04
+Bochum, Maximilian Kolbe	Stamm	06/08/06
+Bochum-Eppendorf, St. Theresia	Stamm	06/08/07
+St. Johannes Bochum-Wiemelhausen	Stamm	06/08/08
+St. Johannes der Täufer Wattenscheid-Leithe	Stamm	06/08/10
+Bochum-Harpen, A. Frank & M.-L. King	Stamm	06/08/11
+Bochum-Weitmar, Bärendorf	Stamm	06/08/12
+Bochum-Hiltrop, Geschwister Scholl	Stamm	06/08/13
+Bochum-Querenb, St. Augustinus	Stamm	06/08/14
+Bochum-Weitmar, Kardinal von Galen	Stamm	06/08/16
+Mülheim/Ruhr, St. Joseph	Stamm	06/09/01
+St. Mariae Rosenkranz	Stamm	06/09/02
+Mülheim a. d. R., St. Michael	Stamm	06/09/03
+Mülheim, St. Barbara	Stamm	06/09/04
+Oberhausen, Sterkrade-Mitte, St. Clemens	Stamm	06/09/05
+Oberhausen, U.L.F.	Stamm	06/09/06
+Oberhausen, Heinrich Seuse	Stamm	06/09/08
+Oberhausen, St. Theresia	Stamm	06/09/10
+Essen-Stoppenberg, St. Nikolaus	Stamm	06/10/01
+Essen-Steele-Freisenbruch, Sankt Altfrid	Stamm	06/10/03
+Essen-Huttrop und Kray/Leithe, St. Bonifatius & Barbarossa	Stamm	06/10/05
+Essen-Schonnebeck, St. Elisabeth	Stamm	06/10/07
+Essen-Relling., St. Lambertus	Stamm	06/11/01
+Essen-Horst, St. Joseph, Philipp Neri	Stamm	06/11/02
+Essen-Burgaltendorf, Vereinigte Ruhrhalbinsel	Stamm	06/11/03
+Essen-Stadtwald, St. Theresia, Sachsen	Stamm	06/11/05
+Essen-Überr., Ch. de Foucauld	Stamm	06/11/06
+Essen-Heisingen, St. Georg	Stamm	06/11/07
+Essen-Haarzopf, Tommes Rusticus	Stamm	06/11/08
+Mannheim, St. Bernhard	Stamm	07/01/01
+Hemsbach, Johanniter	Stamm	07/01/02
+Laudenbach, Cherusker	Stamm	07/01/03
+Mannheim-Neckarau, Thomas Morus	Stamm	07/01/04
+Weinheim-Sulzbach, Guy de Larigaudie	Stamm	07/01/05
+Mannheim-Friedrichsfeld, St. Bonifatius	Stamm	07/01/06
+Mannheim-Waldhof, St. Lioba	Stamm	07/01/07
+Hirschberg-Leutershausen, St. Johannes	Stamm	07/01/08
+Gaggenau-Bad Rotenfels, Laurentius	Stamm	07/02/01
+Kuppenheim, St. Sebastian	Stamm	07/02/03
+Baden-Baden, Hohenbaden	Stamm	07/02/04
+Karlsruhe, von Galen	Stamm	07/02/05
+Karlsruhe-Neureut, Antoine de Saint Exupery	Stamm	07/02/06
+Karlsruhe-Daxlanden, Guy de Larigaudie	Stamm	07/02/10
+Offenburg, Konradin	Stamm	07/03/03
+Urloffen, St. Martin	Stamm	07/03/04
+Bühl, St. Peter und Paul	Stamm	07/03/06
+Offenburg, Albert Schweitzer	Stamm	07/03/09
+Willstätt, Merlin	Stamm	07/03/11
+Sasbachwalden, Lupus	Stamm	07/03/12
+Rheinmünster	Stamm	07/03/13
+Wehr, St. Bernhard	Stamm	07/05/01
+Lörrach-Stetten, St. Fridolin	Stamm	07/05/03
+Weil am Rhein, St. Sebastian	Stamm	07/05/04
+Lörrach-Brombach, St. Josef	Stamm	07/05/06
+Dogern, St. Clemens	Stamm	07/05/08
+Kandern, Sankt Katharina	Stamm	07/05/09
+St. Michael Grenzach-Wyhlen	Stamm	07/05/12
+Sigmaringen, St. Fidelis	Stamm	07/06/01
+Rosenfeld-H-Zimmern, Adenauer	Stamm	07/06/02
+Hechingen, St. Martin	Stamm	07/06/03
+Fischingen, Dom H. Camara	Stamm	07/06/04
+Bingen, Martin-Luther-King	Stamm	07/06/05
+Melchingen	Stamm	07/06/06
+Pfullendorf, St. Jakobus	Stamm	07/06/07
+Haigerloch, Leonardo da Vinci	Stamm	07/06/08
+Ostrachtal, Rainbow	Stamm	07/06/09
+Salmendingen	Stamm	07/06/10
+Singen, St. Pankratius	Stamm	07/07/01
+Überlingen, Paul VI.	Stamm	07/07/02
+Mühlhausen-Ehingen, Peter und Paul	Stamm	07/07/03
+Steißlingen, St. Remigius	Stamm	07/07/08
+Radolfzell, Impeesa	Stamm	07/07/09
+Daisendorf, St. Martin	Stamm	07/07/10
+Hilzingen, Alfred Delp	Stamm	07/07/12
+Konstanz, Bruder Klaus	Stamm	07/07/13
+Markdorf, St. Nikolaus	Stamm	07/07/14
+Bad Dürrheim, Johanniter	Stamm	07/08/01
+Villingen, Ulrich v. Augs.	Stamm	07/08/02
+Villingen-Schwenningen; Der Wolf, der nie schläft	Stamm	07/08/04
+Hattingen/Baden., Maximilian Kolbe	Stamm	07/08/05
+Sinsheim-Rohrbach/Reihen, Dom Helder Camara	Stamm	07/09/01
+Nussloch, St. Laurentius	Stamm	07/09/02
+Plankstadt, St. Nikolaus	Stamm	07/09/03
+Sandhausen, Dreifaltigkeit	Stamm	07/09/04
+Heidelberg-Kirchheim, St. Peter	Stamm	07/09/05
+Heidelberg-Wiebl., St. Bartholom.	Stamm	07/09/06
+Neckarsteinach, St. Stephan	Stamm	07/09/07
+Heidelberg, St. Bonifatius	Stamm	07/09/08
+Ketsch, Don Bosco	Stamm	07/09/09
+Angelbachtal, Mahatma Gandhi	Stamm	07/09/11
+Bammental, Karl Leisner	Stamm	07/09/12
+Sr. Felicitas Heidelberg-Ziegelhausen	Stamm	07/09/13
+Oberhausen, Hohe Flamme	Stamm	07/10/02
+Bad Schönborn-Langenbrücken	Stamm	07/10/03
+Stutensee, Pater Kolbe	Stamm	07/10/04
+Waghäusel-Wiesental, St. Jodokus	Stamm	07/10/05
+Rheinsheim	Stamm	07/10/06
+Bretten, Askola	Stamm	07/10/07
+Bruchsal, St. Christophorus	Stamm	07/10/08
+Pforzheim, Arnulf	Stamm	07/11/02
+Pforzheim, St. Franziskus	Stamm	07/11/05
+Mosbach, Bernhard von Baden	Stamm	07/13/02
+Don Bosco, Neckarelz-Diedesheim	Stamm	07/13/03
+Adelsheim, Stephanus	Stamm	07/13/05
+Haßmersheim, St. Benedikt	Stamm	07/13/06
+Mosbach-Waldstadt, Maximilian Kolbe	Stamm	07/13/08
+Emmendingen, Markgraf Bernhard von Baden	Stamm	07/14/01
+Waldkirch, Konrad von Schwarzenberg	Stamm	07/14/02
+Gutach, St. Michael	Stamm	07/14/03
+Emmendingen, Petter Moen	Stamm	07/14/04
+Endingen, St. Franziskus	Stamm	07/14/05
+Glottertal	Stamm	07/14/06
+Freiburg-Littenweiler, Berthold II. von Zähringen	Stamm	07/15/01
+Freiburg, Tilly	Stamm	07/15/02
+Gundelfingen, Rochus Spiecker	Stamm	07/15/03
+Freiburg-Mitte, Guy de Larigaudie	Stamm	07/15/06
+Freiburg-Weing., Albino Luciani	Stamm	07/15/07
+Kirchzarten, St. Exupery	Stamm	07/15/08
+Freiburg-Opfingen, St. Nikolaus	Stamm	07/15/09
+Freiburg, St. Albert	Stamm	07/15/13
+Breisach, Graf Bernadotte	Stamm	07/15/14
+Bad Krozingen, David	Stamm	07/15/15
+Staufen, St. Martin	Stamm	07/15/16
+Freiburg-Vauban, Kassiopeia	Stamm	07/15/18
+Freiburg-St. Georgen, Betty Clay	Stamm	07/15/19
+Fridtjof Nansen, Titisee-Neustadt	Stamm	07/15/20
+Kassel-Vellmar, Folke Bernadotte	Stamm	08/11/02
+Hünfeld, St. Jakobus	Stamm	08/11/03
+Marburg, St. Michael	Stamm	08/11/04
+Witzenhausen, Witta	Stamm	08/11/05
+Fulda-Neuenberg, St. Andreas	Stamm	08/11/06
+Melsungen, Mariä Himmelfahrt	Stamm	08/11/09
+Fulda-Johannesberg, Mirjam	Stamm	08/11/14
+Bad Orb, St. Martin	Stamm	08/14/01
+Bad Soden-Salmünster-Ahl, Hl. Kreuz	Stamm	08/14/03
+Shalom Bruchköbel	Stamm	08/14/04
+Maintal, Südwind	Stamm	08/14/06
+Grossauheim, St. Paul	Stamm	08/14/07
+Nidderau-Windecken, Wartbaum	Stamm	08/14/08
+Rodenbach, Barbarossa	Stamm	08/14/09
+Wächtersbach, St. Bonifatius	Stamm	08/14/10
+Biebergemünd-Wirtheim, St. Jakobus	Stamm	08/14/12
+Niederdorfelden	Stamm	08/14/13
+Harsum, St. Caecilia	Stamm	09/01/01
+Elze, St. Petrus	Stamm	09/01/02
+Hildesheim-Drispenst., Impeesa	Stamm	09/01/04
+Diekholzen, St. Jakobus	Stamm	09/01/05
+Peine, Giovanni Don Bosco	Stamm	09/01/06
+Emmerke, St. Martinus	Stamm	09/01/09
+Duderstadt, St. Cyriakus	Stamm	09/02/01
+Seesen-Harz, Maria Königin	Stamm	09/02/04
+Herzberg, Sankt Josef	Stamm	09/02/05
+Göttingen	Stamm	09/02/06
+Northeim, St. Marien	Stamm	09/02/07
+Gieboldehausen, St. Laurentius	Stamm	09/02/08
+Celle, St. Ludwig	Stamm	09/03/02
+Helmstedt, St. Ludgeri	Stamm	09/03/04
+Wendeburg-Vechelde, Pastor Theo Derks	Stamm	09/03/09
+Braunschweig, Martin Luther King	Stamm	09/03/10
+Gifhorn, Fred Joseph	Stamm	09/03/11
+Veltheim, Hl. Kreuz	Stamm	09/03/13
+Braunschweig, St. Martin	Stamm	09/03/15
+Seevetal-Hittfeld, Thomas Morus	Stamm	09/04/05
+Bremen, Nordlicht	Stamm	09/04/15
+Buchholz, St. Petrus, Hallimasch	Stamm	09/04/16
+Lilienthal bei Bremen, Franziskus	Stamm	09/04/18
+Hameln, St. Franziskus	Stamm	09/05/03
+Wunstorf, St. Bonifatius	Stamm	09/05/05
+Wedemark, Arche Noah	Stamm	09/05/07
+Neustadt, St. Peter & Paul	Stamm	09/05/08
+Hannover-Kirchrode, Hl. Engel	Stamm	09/05/10
+Lehrte, Maximilian Kolbe	Stamm	09/05/11
+Hannover-Mühlenberg, St. Maximilian Kolbe	Stamm	09/05/15
+Solingen-Ohligs, von Berg	Stamm	10/01/01
+Wuppertal, Gallier	Stamm	10/01/02
+Solingen-Weeg,Sugambrer	Stamm	10/01/03
+Solingen, Gravenrode	Stamm	10/01/04
+Solingen-Wald, Silva	Stamm	10/01/05
+Remscheid-Lennep	Stamm	10/01/06
+Solingen-Löhdorf, Tenkterer	Stamm	10/01/08
+Solingen-Mangenberg, Gandalf	Stamm	10/01/09
+Langenfeld, Castanea	Stamm	10/03/01
+Hochdahl, Franz v. Assisi	Stamm	10/03/02
+Düsseldorf, Lörick	Stamm	10/03/03
+Düsseldorf-Gerresheim, Gerrich Margar	Stamm	10/03/04
+Düsseldorf-Vennhausen	Stamm	10/03/06
+Langenfeld-Richr., St. Martin	Stamm	10/03/07
+Düsseldorf-Bilk, Hohenstaufen	Stamm	10/03/08
+Düsseldorf-Unterrath, St. Bruno	Stamm	10/03/12
+Düsseldorf-Bilk, Winfried	Stamm	10/03/16
+Erkrath	Stamm	10/03/19
+Horrem, von Merode	Stamm	10/04/01
+Pulheim, Sankt Barbara	Stamm	10/04/02
+Brühl, Kurfürst	Stamm	10/04/04
+Reuschenberg Elsdorf	Stamm	10/04/05
+Königsdorf, Hildebold	Stamm	10/04/06
+Pulheim-Brauweiler, Bernhard von Clairvaux	Stamm	10/04/07
+Neubottenbroich, Glückauf	Stamm	10/04/08
+Sinnersdorf, Maximilian Kolbe	Stamm	10/04/10
+Kerpen-Mödrath, St. Quirinus	Stamm	10/04/12
+Erftstadt-Liblar, St. Barbara, Las Casas	Stamm	10/04/13
+Eisvögel	Stamm	10/04/16
+Rochus Spiecker Brühl - Schwadorf	Stamm	10/05/01
+Köln-Worringen, Gilwell	Stamm	10/05/03
+Köln-Sülz, Edith Stein	Stamm	10/05/04
+Köln-Kriel, Helder Camara	Stamm	10/05/06
+St. Walburga, Bornheim-Walberberg	Stamm	10/05/08
+Köln-Blumenberg, St. Katharina von Siena	Stamm	10/05/09
+Bornheim-Hersel+Widdig, St. Franziskus	Stamm	10/05/10
+Rumenthorp	Stamm	10/05/11
+Köln-Ehrenfeld, Helios	Stamm	10/05/12
+Philipp Neri	Stamm	10/05/13
+Köln-Heimersdorf, St. Markus	Stamm	10/05/18
+Köln-Junkersdorf / Müngersdorf, St.Pankr.	Stamm	10/05/19
+Neuss, Malteser	Stamm	10/06/02
+Dormagen-Delrath, Greifen	Stamm	10/06/03
+Grevenbroich-Gustorf, Deutschritter	Stamm	10/06/04
+Grevenbroich, St. Josef	Stamm	10/06/06
+Neuss-Weckhoven, Alfred Delp	Stamm	10/06/09
+Ratingen - West, Kizito	Stamm	10/07/01
+Velbert-Neviges, Hardenberg	Stamm	10/07/02
+Heiligenhaus	Stamm	10/07/03
+Mettmann	Stamm	10/07/04
+Wülfrath, Franken	Stamm	10/07/05
+Lintorf	Stamm	10/07/06
+Velbert, Johannes Bosco	Stamm	10/07/07
+Essen-Kettwig, Kattwiga	Stamm	10/07/10
+Siegburg, St. Anno	Stamm	10/09/01
+Siegburg - Kaldauen, eXodus	Stamm	10/09/02
+Lohmar, St. Johannes	Stamm	10/09/05
+Niederkassel, Roncalli	Stamm	10/09/06
+St. Augustin-Menden	Stamm	10/09/12
+Lohmar, Ichtys-Neuhonrath	Stamm	10/09/20
+Gummersbach, St. Felizitas	Stamm	10/09/21
+Euskirchen, Kreuzritter	Stamm	10/10/01
+Rheinbach, Antoine de Saint-Exupery	Stamm	10/10/03
+Meckenheim, Swabidua	Stamm	10/10/04
+Euskirchen-Euenheim, Carpe diem	Stamm	10/10/05
+Zülpich, St. Quirinus	Stamm	10/10/07
+Euskirchen-Stotzheim, St. Hubertus	Stamm	10/10/08
+Bonn-Hardtberg, St.Rochus	Stamm	10/12/01
+Bonn-Bad Godesb., Graf Galen	Stamm	10/12/02
+Bonn-Stadtmitte, Phönix	Stamm	10/12/03
+Bonn-Beuel, Sugambrer	Stamm	10/12/04
+Königswinter, Heisterbacherrott	Stamm	10/13/01
+Sugambrer Hennef-Warth	Stamm	10/13/02
+Königswinter-Ittenbach, Idubag	Stamm	10/13/03
+Ruppichterroth	Stamm	10/13/04
+Winterscheid	Stamm	10/13/05
+Isenburg, Schürdt-Oberlahr	Stamm	10/13/06
+Rheinbreitbach, Terra Nova	Stamm	10/13/07
+Königswinter-Stieldorf, Romero	Stamm	10/13/08
+Königswinter-Oberpleis	Stamm	10/13/09
+Neunk.-Seelscheid, Edelweiss	Stamm	10/13/10
+Eitorf, Shamrock	Stamm	10/13/13
+Waldbröl, St. Georg	Stamm	10/13/15
+Köln-Rath/Heumar, Johannes Bosco	Stamm	10/14/01
+Köln-Porz	Stamm	10/14/02
+Köln-Kalk, Hohenstaufen	Stamm	10/14/03
+Köln-Brück, Ostgoten	Stamm	10/14/04
+Köln-Neubrück, St. Adelheid	Stamm	10/14/05
+Köln-Stammheim, Gilwell	Stamm	10/14/06
+Köln-Ensen, St. Laurentius	Stamm	10/14/07
+Bensberg, Ommerborn	Stamm	10/14/08
+Bergisch Gladbach-Refr., Widukind	Stamm	10/14/09
+Leverkusen-Steinbüchel, Woodstock	Stamm	10/14/10
+Leverkusen-Schlebusch, Gezelin	Stamm	10/14/11
+Höhenberg-Vingst, Elisodor	Stamm	10/14/12
+Leichlingen, Wippera, St. Johannes Baptist	Stamm	10/14/13
+Wipperfürth	Stamm	10/14/14
+Frankfurt-Fechenheim, Normannen	Stamm	11/01/01
+Frankfurt Nord / Marcel Callo	Stamm	11/01/02
+Frankfurt-Rödelheim, Damian de Veuster	Stamm	11/01/03
+Frankfurt, Oberrad	Stamm	11/01/04
+Frankfurt-Heddernheim, Wikinger	Stamm	11/01/05
+Frankfurt-Unterliederbach, Cherusker	Stamm	11/01/06
+Frankfurt-Schwanheim, Don Bosco	Stamm	11/01/07
+Frankfurt-Niederrad, Ch. de Foucauld	Stamm	11/01/08
+St. Bonifatius	Stamm	11/01/09
+Wiesbaden-Schierstein, Thomas Morus	Stamm	11/02/01
+Normannen Eltville	Stamm	11/02/03
+Wiesbaden, Mutter Teresa	Stamm	11/02/04
+Idstein, St. Martin	Stamm	11/02/06
+Aarbergen, Paloma	Stamm	11/02/16
+Königstein	Stamm	11/03/01
+Eschborn, Regenbogen	Stamm	11/03/02
+Hofheim, St. Bonifatius	Stamm	11/03/04
+Kelkheim, Johannes Bosco	Stamm	11/03/06
+St. Franziskus Lorsbach-Langenhain	Stamm	11/03/08
+Schloßborn, Taunus-Wölfe	Stamm	11/03/10
+Montabaur	Stamm	11/04/01
+St. Rochus Simmern	Stamm	11/04/02
+Lahnstein-Oberlahnstein, St. Martin	Stamm	11/04/03
+Wirges, Katharina Kasper	Stamm	11/04/06
+Eitelborn, Weiße Rose	Stamm	11/04/07
+Weilburg, Rochus Spiecker	Stamm	11/05/01
+Lahntal (Dietkirchen + Dehrn)	Stamm	11/05/02
+Eisenbach	Stamm	11/05/03
+Wetzlar/Dom, Barbarossa	Stamm	11/05/04
+Limburg-Dom	Stamm	11/05/05
+Dornburg Westerw.-Frickhofen, St. Blasius	Stamm	11/05/06
+Tilia Hollesse (Limburg-Lindenholzhausen)	Stamm	11/05/08
+Rosbach, St. Johannes	Stamm	12/01/01
+Friedberg, St. Leonhard	Stamm	12/01/02
+Lauterbach/Schlitz, St. Michael	Stamm	12/01/03
+Sankt Marien Großen-Buseck	Stamm	12/01/04
+Langgöns, St. Josef	Stamm	12/01/05
+Nidderau-Heldenbergen, Sankt Bonifatius	Stamm	12/01/06
+St. Andreas Altenstadt e.V.	Stamm	12/01/07
+Gießen, Franz von Assisi	Stamm	12/01/08
+Rüsselsheim, Partner Erde	Stamm	12/02/01
+Mainz-Gonsenheim, St. Stephan	Stamm	12/02/03
+Klein-Winternheim	Stamm	12/02/05
+Ingelheim, Nikolaus von Flüe	Stamm	12/02/07
+Schwabenheim, Greifenklau	Stamm	12/02/08
+Budenheim, Don Bosco	Stamm	12/02/09
+Mainz-Finthen, Bruder Franz	Stamm	12/02/10
+Mainz, Don Greif	Stamm	12/02/11
+Rödermark-Urberach, Gralsritter	Stamm	12/02/15
+Dietzenbach, St. Martin	Stamm	12/02/16
+Wöllstein, St. Franziskus-Rheinhessische Schweiz	Stamm	12/02/20
+Seeheim-Jugenheim, Bonifatius	Stamm	12/03/01
+Seeheim-Jugenheim, Ulrich von Münzenberg	Stamm	12/03/03
+Breuberg-Höchst, Hl. Karl Borromäus	Stamm	12/03/05
+Darmstadt-Arheilgen, Arheilgen	Stamm	12/03/06
+Dieburg	Stamm	12/03/07
+Gross-Zimmern, St. Bartholomäus	Stamm	12/03/08
+Münster, St. Michael	Stamm	12/03/11
+Michelstadt / Odenwald, St. Christophorus	Stamm	12/03/13
+Weiterstadt, St. Johannes	Stamm	12/03/14
+Heppenheim, St. Peter	Stamm	12/03/15
+Viernheim, Folke Bernadotte	Stamm	12/03/17
+Lorsch, St. Nazarius	Stamm	12/03/18
+Bürstadt, Bruder Feuer	Stamm	12/03/19
+Lampertheim, Guy de Larigaudie	Stamm	12/03/20
+Darmstadt, Liebfrauen	Stamm	12/03/23
+Einhausen	Stamm	12/03/25
+München-Giesing, Hl. Engel	Stamm	13/12/02
+Garching, St. Severin	Stamm	13/12/03
+Mariahilf	Stamm	13/12/04
+München-Schwabing, Pater Rupert Mayer	Stamm	13/12/06
+Maximilian Kolbe	Stamm	13/12/07
+München-Solln, St. Ansgar	Stamm	13/12/08
+München-Olympiadorf, Frieden Christi	Stamm	13/12/09
+Swapingo	Stamm	13/12/10
+München-Lehel, St. Anna	Stamm	13/12/12
+München-Grosshadern, St. Canisius	Stamm	13/12/13
+Ottobrunn	Stamm	13/13/02
+Camilo Torres, Hohenbrunn	Stamm	13/13/04
+München-Riem, Galileo Galilei	Stamm	13/13/05
+Unterhaching, St. Birgitta	Stamm	13/13/06
+Neukeferloh, Columbus	Stamm	13/13/07
+München-Waldtrudering, Condor	Stamm	13/13/08
+Putzbrunn, Arche Noah	Stamm	13/13/09
+München-Perlach, St. Michael	Stamm	13/13/12
+Olching, St. Peter und Paul	Stamm	13/14/01
+München-Pas., St. Hildeg./M.Schutz	Stamm	13/14/03
+Germering, Parsberg	Stamm	13/14/04
+Gröbenzell, St. Johann Baptist	Stamm	13/14/05
+Puchheim, Bison	Stamm	13/14/06
+Karlsfeld, Anjo II	Stamm	13/14/08
+München-Neuhadern, Oscar A. Romero	Stamm	13/14/09
+München-Laim, St. Willibald	Stamm	13/14/13
+München-Westend, St. Rupert	Stamm	13/14/14
+Freising, St. Georg	Stamm	13/15/01
+Moosburg, St. Kastulus	Stamm	13/15/03
+Langenbach, Wolfsspur	Stamm	13/15/06
+Freilassing, St. Rupert	Stamm	13/16/01
+Mühldorf, Tilly	Stamm	13/16/02
+Mitterfelden, Christopherus	Stamm	13/16/04
+Laufen, Mariä Himmelfahrt	Stamm	13/16/05
+Don Bosco Polling	Stamm	13/16/06
+Surberg	Stamm	13/16/08
+Rott am Inn, Marinus	Stamm	13/17/01
+Kirchseeon, St. Joseph	Stamm	13/17/03
+Anzing/Poing, Windrose	Stamm	13/17/05
+Grafing, St. Sebastian	Stamm	13/17/08
+Hohenlinden, Impeesa	Stamm	13/17/09
+Kiefersfelden, Adler	Stamm	13/19/01
+Prutting	Stamm	13/19/02
+Rosenheim, St. Michael	Stamm	13/19/03
+Mountain Scouts Aschau	Stamm	13/19/04
+Degerndorf / Brannenburg, Christkönig	Stamm	13/19/06
+Rosenheim-Oberwöhr, St. Josef d. Arbeiter	Stamm	13/19/08
+Bad Aibling, St. Franziskus	Stamm	13/19/10
+Kolbermoor, St. Franziskus	Stamm	13/19/11
+Feldkirchen-Westerh., Phoenix	Stamm	13/19/12
+Grosskarolinenfeld, Christophorus	Stamm	13/19/13
+St. Quirinus Fürstätt	Stamm	13/19/15
+Holzkirchen, St. Laurentius	Stamm	13/20/01
+Baierbrunn, Ägypten	Stamm	13/20/03
+St. Sixtus Schliersee	Stamm	13/20/05
+Iffeldorf/Seeshaupt, St. Vitus	Stamm	13/20/06
+Benediktbeuern, Dominikus Savio	Stamm	13/20/08
+Bad Tölz, Eisvogel	Stamm	13/20/10
+Xanten, St. Viktor	Stamm	14/01/01
+Emmerich, Janusz Korczak	Stamm	14/01/03
+St. Augustinus Gaesdonck	Stamm	14/01/04
+Kleve-Materborn, St. Georg	Stamm	14/01/06
+Schermbeck, St. Ludgerus	Stamm	14/01/07
+Alpen, St. Ulrich	Stamm	14/01/08
+Sonsbeck, St.Maria Magdalena	Stamm	14/01/09
+Wesel-Feldmark, Herz Jesu	Stamm	14/01/11
+Wesel-Flüren	Stamm	14/01/12
+Wesel, z. d. Hl. Engeln	Stamm	14/01/13
+Kalkar, St. Benedikt	Stamm	14/01/15
+Geldern-Hartefeld	Stamm	14/01/16
+Weeze, St. Cyriakus	Stamm	14/01/17
+Hamminkeln, St. Maria Himmelfahrt	Stamm	14/01/18
+Geldern-Veert, St. Martin	Stamm	14/01/20
+Geldern, St. Maria Magdalena	Stamm	14/01/21
+Hamminkeln, Wertherbruch	Stamm	14/01/22
+Uedem	Stamm	14/01/23
+Geldern-Kapellen	Stamm	14/01/25
+Rheurdt, St. Nikolaus	Stamm	14/01/27
+Goch, Edelweiß	Stamm	14/01/30
+Vechta, Füchtel	Stamm	14/02/01
+Vechta, St. Georg	Stamm	14/02/02
+Steinfeld, v. Schagen	Stamm	14/02/04
+Dinklage, von Galen	Stamm	14/02/05
+Wilhelmshaven, Christus König	Stamm	14/02/06
+Lohne, St. Gertrud	Stamm	14/02/07
+Damme, Benedikt	Stamm	14/02/08
+Oldenburg, Widukind	Stamm	14/02/11
+Varel, Stella Maris	Stamm	14/02/12
+Goldenstedt-Ellenstedt, St. Heinrich	Stamm	14/02/13
+Barssel, St. Franziskus	Stamm	14/02/16
+Bakum, St. Johannes	Stamm	14/02/17
+Lindern, Philipp Neri	Stamm	14/02/18
+Rhede	Stamm	14/03/01
+Bocholt, St. Josef	Stamm	14/03/02
+Bocholt, St. Norbert	Stamm	14/03/04
+Bocholt, Hl. Kreuz	Stamm	14/03/05
+Borken, St. Remigius	Stamm	14/03/06
+Epe, St. Antonius	Stamm	14/03/07
+Velen-Ramsdorf	Stamm	14/03/09
+Isselburg	Stamm	14/03/10
+Ahaus, St. Marien	Stamm	14/03/11
+Stadtlohn	Stamm	14/03/13
+Schöppingen	Stamm	14/03/16
+Gescher, St. Pankratius	Stamm	14/03/24
+Marl-Sinsen, Vasco da Gama	Stamm	14/04/01
+Hillerheide	Stamm	14/04/02
+Dorsten, St. Johannes	Stamm	14/04/05
+Recklinghausen, Liebfrauen-Ost	Stamm	14/04/06
+St. Agatha Dorsten	Stamm	14/04/09
+Recklinghausen-Nord, St. Elisabeth	Stamm	14/04/11
+Marl- Lenkerbeck, St. Marien	Stamm	14/04/12
+Marl-Sickingmühle, Christ König	Stamm	14/04/16
+Recklinghausen-Hochlar	Stamm	14/04/17
+Oer-Erkenschwick	Stamm	14/04/18
+Dorsten-Wulfen-Barkenberg, St. Barbara	Stamm	14/04/19
+Bottrop-Grafenwald, Hl. Familie	Stamm	14/04/20
+Dorsten, St. Bonifatius	Stamm	14/04/21
+Waltrop	Stamm	14/04/22
+Saerbeck, St. Georg	Stamm	14/05/02
+Emsdetten, St. Pankratius	Stamm	14/05/03
+Burgsteinfurt, St.Johannes Nepomuk	Stamm	14/05/04
+Nordwalde, St. Dionysius	Stamm	14/05/06
+Wettringen, St. Petronilla	Stamm	14/05/07
+Mettingen, Tüöttenstamm	Stamm	14/05/09
+Greven, St. Josef	Stamm	14/05/10
+Ladbergen	Stamm	14/05/14
+Tecklenburg, St. Michael	Stamm	14/05/16
+Greven-Reckenfeld	Stamm	14/05/17
+Ostbevern, St. Ambrosius	Stamm	14/06/03
+Drensteinfurt	Stamm	14/06/04
+Warendorf	Stamm	14/06/05
+Ahlen/Westf.	Stamm	14/06/08
+Oelde, Der kleine Bach	Stamm	14/06/09
+Beckum, St. Stephanus	Stamm	14/06/10
+Ennigerloh, Enniger	Stamm	14/06/11
+Drensteinfurt-Rinkerode, St. Pankratius	Stamm	14/06/13
+Hamm-Bockum-Hövel, Impeesa-HeiligGeist	Stamm	14/06/14
+Sendenhorst, St. Martinus	Stamm	14/06/15
+Münster-Gievenbeck, St. Michael	Stamm	14/07/01
+Münster-Handorf, St. Petronilla	Stamm	14/07/02
+St. Liutger	Stamm	14/07/03
+Münster-Wolbeck, Don Bosco	Stamm	14/07/04
+Münster, Gremmendorf	Stamm	14/07/06
+Münster-Hiltrup, Rochus Spiecker	Stamm	14/07/07
+St. Anna Mecklenbeck Albachten Roxel Aaseestadt, Münster	Stamm	14/07/09
+Münster, St. Franziskus	Stamm	14/07/12
+Herz-Jesu Münster	Stamm	14/07/17
+Moers-Wesel, St. Josef	Stamm	14/08/01
+Duisburg-Homberg, Hochheide	Stamm	14/08/04
+Duisburg-Rheinhausen, Christus König	Stamm	14/08/06
+Dinslaken, St. Vincentius	Stamm	14/08/07
+Duisburg, St. Ludger	Stamm	14/08/11
+Friedrichsfeld, St. Elisabeth	Stamm	14/08/12
+Rheinberg, St. Anna, Phönix	Stamm	14/08/13
+Kamp-Lintfort, St. Marien	Stamm	14/08/14
+Voerde-Spellen, Sankt Peter Spellen	Stamm	14/08/15
+Dülmen, Heilig Kreuz	Stamm	14/09/01
+Nordkirchen	Stamm	14/09/02
+Lüdinghausen	Stamm	14/09/03
+Lette, St. Johannes	Stamm	14/09/04
+Nottuln, St. Martin	Stamm	14/09/05
+Selm, St. Josef	Stamm	14/09/08
+Senden	Stamm	14/09/10
+Olfen, St. Vitus	Stamm	14/09/11
+Coesfeld	Stamm	14/09/13
+Pfadwind	Stamm	15/00/01
+Haren, Nordlicht Altharen	Stamm	15/01/02
+Papenburg	Stamm	15/01/04
+Haselünne-Lehrte, St. Vincentius	Stamm	15/01/13
+Haren, Franziskus	Stamm	15/01/15
+Nordhorn, St. Marien	Stamm	15/01/23
+Melle-Gesmold, Horizonte	Stamm	15/04/01
+Osnabrück, Rosenkranz	Stamm	15/04/02
+Holzhausen-Ohrbeck	Stamm	15/04/04
+Oesede, Hl. Geist	Stamm	15/04/07
+Wallenhorst, St. Alexander	Stamm	15/04/09
+Neuenkirchen, St. Laurentius	Stamm	15/04/10
+Maximilian Kolbe Rulle	Stamm	15/04/22
+Dortmund-Mitte, St. Franziskus	Stamm	16/01/01
+Dortmund-Husen	Stamm	16/01/02
+Dortmund-Wambel, St. Meinolfus	Stamm	16/01/03
+St. Remigius Dortmund-Mengede	Stamm	16/01/04
+Dortmund-Lütgendortmund	Stamm	16/01/06
+Dortmund-Soelde, St. Marien	Stamm	16/01/07
+Dortmund-Huckarde, St. Urbanus	Stamm	16/01/10
+St. Liborius - Dortmund-Körne	Stamm	16/01/11
+Dortmund-Hörde, Marcel Callo	Stamm	16/01/13
+Dortmund-Scharnhorst, St. Franziskus	Stamm	16/01/14
+Dortmund-Barop (FRAXA)	Stamm	16/01/15
+Dortmund-Kirchlinde, St. Josef	Stamm	16/01/16
+Dortmund-Aplerbeck, St. Ewaldi	Stamm	16/01/17
+Dortmund-Brünninghausen, Hl. Familie	Stamm	16/01/18
+Dortmund-Lichtendorf/Sölderholz, Bonifaten 80	Stamm	16/01/19
+Dortmund-Berghofen	Stamm	16/01/21
+Dortmund-Lanstrop, St. Michael	Stamm	16/01/23
+Castrop-Rauxel, St. Lambertus	Stamm	16/01/24
+Herne, Amelungen	Stamm	16/01/25
+Herne-Eickel, Franziskus	Stamm	16/01/26
+Goten Unna	Stamm	16/02/01
+Hohenlimburg	Stamm	16/02/02
+Hagen-Boele, St. Joh. Baptist	Stamm	16/02/03
+Schwerte-Ost, St. Marien	Stamm	16/02/04
+Hagen, St. Elisabeth	Stamm	16/02/06
+Wittener Löwen	Stamm	16/02/07
+St. Urban Ende-Syburg	Stamm	16/02/08
+Fröndenberg-Warmen	Stamm	16/02/11
+Herdecke, Marcel Callo	Stamm	16/02/14
+Iserlohn-Nussberg, Arche	Stamm	16/02/16
+Witten-Bommern, Herz Jesu	Stamm	16/02/18
+Bad-Westernk., Franz v. Assisi	Stamm	16/03/01
+Möhnesee-Körbecke, St. Pankratius	Stamm	16/03/02
+Geseke, Marco Polo	Stamm	16/03/03
+Hamm-Süden	Stamm	16/03/04
+Lippstadt, Phönix	Stamm	16/03/05
+Hamm-Norden	Stamm	16/03/06
+Soest	Stamm	16/03/07
+Lippetal, Lippborg	Stamm	16/03/08
+Warstein, St. Petrus	Stamm	16/03/11
+Graf-Folke-Bernadotte Rüthen	Stamm	16/03/12
+Warstein-Belecke, St. Pankratius	Stamm	16/03/13
+Heessen-Dasbeck, Don Bosco	Stamm	16/03/14
+Welver, Maximilian Kolbe	Stamm	16/03/15
+Hamm-Berge	Stamm	16/03/18
+Lippetal, Oestinghausen	Stamm	16/03/19
+Lippstadt, Albatros Cappel	Stamm	16/03/21
+Neheim, St. Christopher	Stamm	16/04/02
+Arnsberg-Hüsten, Sankt Ludgerus	Stamm	16/04/03
+Herdringen, St. Antonius	Stamm	16/04/04
+Eslohe-Wenholthausen, St. Cäcilia	Stamm	16/04/05
+Arnsberg, Liebfrauen	Stamm	16/04/06
+Meschede-Eversberg, St. Ever.	Stamm	16/04/07
+Brilon, Propstei	Stamm	16/04/08
+Kückelheim	Stamm	16/04/09
+Meschede, St. Walburga	Stamm	16/04/11
+Siegen, St. Michael	Stamm	16/05/01
+Siegen, St. Peter und Paul	Stamm	16/05/02
+Siegen-Hüttental	Stamm	16/05/03
+Olpe, Vinzenz Pallotti	Stamm	16/05/05
+Netphen, St. Martini	Stamm	16/05/06
+Netphen-Dreis-Tiefenbach	Stamm	16/05/07
+Attendorn-Ennest, St. Margaretha	Stamm	16/05/09
+Wilnsdorf-Rudersdorf, St. Laurentius	Stamm	16/05/10
+Paderborn-Schloß Neuhaus, St. Heinrich	Stamm	16/06/01
+Paderborn, St. Meinolf	Stamm	16/06/02
+Herford, St. Johannes Baptist	Stamm	16/06/03
+Bielefeld, Liebfrauen	Stamm	16/06/04
+Nordborchen	Stamm	16/06/06
+Gütersloh-Spexard	Stamm	16/06/07
+Paderborn, Auf der Lieth, St. Hedwig	Stamm	16/06/08
+Lemgo	Stamm	16/06/10
+Detmold, Hl. Kreuz	Stamm	16/06/13
+Paderborn-Elsen, St. Dionysius Elsen	Stamm	16/06/17
+Höxter-Stadtmitte, St. Ansgar	Stamm	16/08/01
+St. Johannes Baptist Lüchtringen	Stamm	16/08/03
+Stahle, St. Anna	Stamm	16/08/04
+Brenkhausen, St. Johannes	Stamm	16/08/05
+Höxter-Ottbergen	Stamm	16/08/08
+Hengersberg	Stamm	17/01/01
+Fürstenstein-Nammering	Stamm	17/01/02
+Salzweg, Sophie Scholl	Stamm	17/01/03
+Neuötting	Stamm	17/02/01
+Winhöring	Stamm	17/02/03
+Hauzenberg	Stamm	17/04/01
+Freyung, St. Gunther	Stamm	17/04/02
+Tittling	Stamm	17/04/03
+Untergriesbach	Stamm	17/04/04
+Kirchdorf	Stamm	17/05/01
+Pocking	Stamm	17/05/02
+Pfarrkirchen	Stamm	17/05/03
+Vilshofen	Stamm	17/05/04
+Rotthalmünster, St. Sebastian	Stamm	17/05/05
+Frauenau	Stamm	17/06/01
+Grafenau	Stamm	17/07/01
+Speichersdorf, Kirchenlaibach	Stamm	18/01/01
+Kulmain	Stamm	18/01/02
+Mitterteich	Stamm	18/01/03
+Marktredwitz	Stamm	18/01/04
+Tirschenreuth	Stamm	18/01/05
+Eschenbach	Stamm	18/02/01
+Weiden, Thomas Morus	Stamm	18/02/02
+Neuhaus, Don Bosco	Stamm	18/02/03
+Windischeschenbach, St. Georg	Stamm	18/02/08
+Amberg, St. Georg	Stamm	18/03/01
+Ammersricht, St. Konrad	Stamm	18/03/02
+Schnaittenbach	Stamm	18/03/05
+Sulzbach-Rosenberg	Stamm	18/03/06
+Poppenricht-Michaelspoppenricht	Stamm	18/03/07
+Ensdorf	Stamm	18/03/08
+Puchhausen-Hüttenkofen	Stamm	18/05/01
+Straßkirchen, Impeesa	Stamm	18/05/03
+Landshut, Angelo Roncalli	Stamm	18/05/04
+Landshut, St. Pius	Stamm	18/05/05
+Viechtach	Stamm	18/05/06
+Landshut, St. Wolfgang	Stamm	18/05/07
+Hohenthann	Stamm	18/05/09
+Obertraubling, Trubilo	Stamm	18/06/01
+Regensburg-Ziegetsdorf	Stamm	18/06/03
+Regensburg-Kupfmühl, St. Wolfgang	Stamm	18/06/04
+Regensburg, St. Konrad	Stamm	18/06/05
+Sinzing	Stamm	18/06/06
+Regensburg, Herz Marien	Stamm	18/06/07
+Regensburg-Steinweg, Hl. Dreifaltigkeit	Stamm	18/06/08
+Wenzenbach	Stamm	18/06/11
+Regensburg-Schwabelweis	Stamm	18/06/12
+Hainsacker, Geschwister Scholl	Stamm	18/06/14
+Regensburg-Burgweinting	Stamm	18/06/15
+Pettendorf	Stamm	18/06/16
+Parsberg	Stamm	18/07/02
+Kelheim	Stamm	18/07/03
+Saal, Christ König	Stamm	18/07/04
+Abensberg-Offenstetten	Stamm	18/07/06
+Teugn	Stamm	18/07/07
+Stuttgart-Obertürkheim, St. Franziskus	Stamm	19/01/01
+Stuttgart-Möhringen, St. Hedwig	Stamm	19/01/03
+Stuttgart-Hofen	Stamm	19/01/04
+Oeffingen, Chico Mendes	Stamm	19/01/05
+Stuttgart-Zuffenhausen	Stamm	19/01/09
+Leonberg, St. Johannes d. T.	Stamm	19/01/12
+Esslingen, Wikinger	Stamm	19/02/01
+Neuhausen, Petrus & Paulus	Stamm	19/02/06
+Corvus Nürtingen	Stamm	19/02/07
+Wernau/Neckar	Stamm	19/02/09
+Herrenberg, St. Josef	Stamm	19/03/02
+Holzgerlingen	Stamm	19/03/03
+Eningen	Stamm	19/03/04
+Reutlingen-Nord	Stamm	19/03/05
+Tübingen	Stamm	19/03/09
+Frommern, St. Paulus	Stamm	19/03/10
+Böblingen	Stamm	19/03/11
+Reutlingen-Mitte	Stamm	19/03/13
+St. Peter & Paul Weil der Stadt	Stamm	19/03/15
+Reutlingen Süd	Stamm	19/03/16
+Kiebingen, Heilig Geist	Stamm	19/03/20
+Ammerbuch-Entringen	Stamm	19/03/21
+Hl. Kreuz Deggingen	Stamm	19/04/01
+Donzdorf, St. Martin	Stamm	19/04/02
+Donzdorf-Winzingen, St. Bernhard	Stamm	19/04/05
+Eislingen	Stamm	19/04/06
+Göppingen, St. Maria	Stamm	19/04/07
+Salach, St. Margaretha	Stamm	19/04/08
+Schwäbisch-Gmünd, Hl. Kreuz	Stamm	19/04/11
+Carpe Diem Ehingen	Stamm	19/06/01
+Biberach, Weiße Rose	Stamm	19/06/02
+Ravensburg, Impeesa	Stamm	19/06/03
+Friedrichshafen, Buchhorn	Stamm	19/06/05
+Laupheim, Kon - Tiki	Stamm	19/06/06
+Schelklingen-Hütten, Guter Hirte	Stamm	19/06/07
+Wolfegg, Loreto	Stamm	19/06/09
+Ennetach	Stamm	19/06/11
+Sinningen, St. Michael	Stamm	19/06/12
+Weingarten, Welfen	Stamm	19/06/14
+Balingen, Hl. Geist	Stamm	19/07/01
+Rottweil, J. F. Kennedy	Stamm	19/07/02
+Schramberg	Stamm	19/07/03
+Tuttlingen, Tutilo	Stamm	19/07/06
+Weigheim, St. Otmar	Stamm	19/07/08
+Aalen, Salvator	Stamm	19/08/01
+Bopfingen	Stamm	19/08/02
+Ellwangen, St. Veit	Stamm	19/08/03
+Giengen, St. Michael	Stamm	19/08/04
+Heubach, St. Bernhard	Stamm	19/08/06
+Herbrechtingen, Romero	Stamm	19/08/08
+Ulm-Nord	Stamm	19/08/21
+Ulm-Söflingen	Stamm	19/08/23
+Rammingen	Stamm	19/08/24
+Saint-Exupéry Ulm	Stamm	19/08/25
+Bietigheim-Bissingen	Stamm	19/09/01
+Heilbronn-Böcklingen, St. Kilian	Stamm	19/09/02
+Erlenbach, St. Martinus	Stamm	19/09/03
+Ludwigsburg-Poppenweiler, Falke	Stamm	19/09/04
+Kornwestheim, St. Martin	Stamm	19/09/05
+Ludwigsburg, Silberschwäne	Stamm	19/09/06
+Mühlacker, Herz-Jesu	Stamm	19/09/07
+St. Dionys Neckarsulm	Stamm	19/09/08
+Brackenheim, Theodor Heuss	Stamm	19/09/09
+Heilbronn, Mahatma Ghandi	Stamm	19/09/11
+Oedheim	Stamm	19/09/12
+Bad Wimpfen, Fähnlein Fieselschwein	Stamm	19/09/15
+Bad Mergentheim, Hoch- und Deutschmeister	Stamm	19/11/01
+Künzelsau	Stamm	19/11/02
+Öhringen, Abenteuer	Stamm	19/11/03
+Santiago Schrozberg	Stamm	19/11/07
+Ingelfingen	Stamm	19/11/08
+Bretzfeld Weiße Rose	Stamm	19/11/09
+Hauenstein, Christkönig	Stamm	20/02/01
+Waldfischbach-Burgalben	Stamm	20/02/02
+Rodalben, Sel. Bernhard	Stamm	20/02/03
+Kaiserslautern, Fridtjof Nansen	Stamm	20/02/04
+Rodalben, St. Josef	Stamm	20/02/08
+Zweibrücken ,Heilige Elisabeth	Stamm	20/02/10
+Frankenthal, St. Jakobus-Pilgerpfad	Stamm	20/03/01
+Otterstadt	Stamm	20/03/02
+Dannstadt-Schauernh., St. Michael	Stamm	20/03/03
+Ludwigshafen, Herz Jesu	Stamm	20/03/06
+Ludwigshafen-Gartenstadt, Phoenix	Stamm	20/03/07
+Ludwigshafen-Pfingstweide, St. Albert	Stamm	20/03/08
+Altrip, Rheingold	Stamm	20/03/09
+Ludwigshafen-Friesenheim, St. Josef	Stamm	20/03/11
+Bobenheim, St. Laurentius	Stamm	20/03/13
+Maxdorf/Birkenheide, Impeesa	Stamm	20/03/14
+Ludwigshafen-Oggersh., Christ König	Stamm	20/03/18
+St. Ingbert-Rohrbach	Stamm	20/04/01
+St. Ingbert, Hassel	Stamm	20/04/02
+Mandelbachtal/Heckendalh., St. Josef	Stamm	20/04/05
+St. Ingbert-Mitte	Stamm	20/04/06
+Homburg-Jägersb., St. Josef	Stamm	20/04/07
+Johanneum	Stamm	20/04/10
+Niederwürzbach	Stamm	20/04/11
+Camino Homburg	Stamm	20/04/13
+Edenkoben/Hainfeld, Hedin	Stamm	20/05/01
+Herxheim, Amundsen	Stamm	20/05/02
+Landau, St. Albert	Stamm	20/05/03
+Neustadt, Guy de Larigaudie	Stamm	20/05/04
+Neustadt-Lachen, Franz von Assisi	Stamm	20/05/06
+Winden, Marco Polo	Stamm	20/05/07
+Rülzheim, St. Diethardt	Stamm	20/05/09
+Lambrecht	Stamm	20/05/10
+Speyer, Dompfarrei	Stamm	20/05/14
+Speyer, St. Konrad	Stamm	20/05/15
+Kaltenengers	Stamm	21/01/04
+Urmitz	Stamm	21/01/06
+Koblenz-Castell-Niederberg	Stamm	21/01/07
+Koblenz-Südliche Vorstadt, St. Josef	Stamm	21/01/08
+Koblenz-Goldgrube, St. Franziskus	Stamm	21/01/09
+Koblenz-Güls, Seepfadfinder	Stamm	21/01/10
+Rhens, St. Theresia	Stamm	21/01/11
+Bassenheim, St. Martin	Stamm	21/01/14
+Koblenz-Asterstein	Stamm	21/01/16
+Münstermaifeld, Maifeld-Scouts	Stamm	21/01/17
+Bernkastel-Kues, Moselfranken	Stamm	21/02/01
+Bernkastel-Kues, Westgoten	Stamm	21/02/02
+Rachtig, Deutschherren	Stamm	21/02/05
+Kaisersesch	Stamm	21/02/07
+Wittlich, St. Rochus	Stamm	21/02/12
+Kirn-Sulzbach, St. Michael	Stamm	21/03/01
+Bad Kreuznach, Franziskus	Stamm	21/03/03
+Rheinböllen, Soonwald	Stamm	21/03/04
+Waldalgesheim, Alagastesheim	Stamm	21/03/05
+Sohren	Stamm	21/03/06
+St. Rupertus Bingerbrück	Stamm	21/03/07
+Neuwied-Oberbieber, St. Bonifatius	Stamm	21/04/01
+Kurtscheid	Stamm	21/04/02
+Neuwied-Feldkirchen, St. Michael	Stamm	21/04/03
+Neuwied-City	Stamm	21/04/04
+Rheinbrohl	Stamm	21/04/06
+Neuwied-Engers, St. Martin	Stamm	21/04/12
+Neuwied, Heimbach-Weis	Stamm	21/04/13
+Neuwied-Gladbach	Stamm	21/04/14
+Leutesdorf, Marcel Callo	Stamm	21/04/17
+Dudweiler, St. Bonifatius	Stamm	21/05/02
+Köllerbach, Herz Jesu	Stamm	21/05/05
+Friedrichsthal, Wikinger	Stamm	21/05/06
+Klarenthal, St. Bartholomäus	Stamm	21/05/07
+Ludweiler, Warndt-Scouts	Stamm	21/05/11
+Saarbrücken, Brebach	Stamm	21/05/12
+Roden, Graf Folke Bernadotte Saarlouis-Roden	Stamm	21/06/01
+Rehlingen-Siersburg, St. Nikolaus	Stamm	21/06/04
+Saarlouis ,Beaumarais	Stamm	21/06/07
+Hülzweiler, St. Laurentius	Stamm	21/06/08
+Illingen, St. Stephan, Die Adler	Stamm	21/07/02
+Hasborn	Stamm	21/07/04
+Neunkirchen, St. Pius	Stamm	21/07/12
+Kirchen, St. Michael	Stamm	21/08/02
+Niederfischbach	Stamm	21/08/03
+Betzdorf, St. Ignatius	Stamm	21/08/04
+Niederschelderhütte/Birken	Stamm	21/08/05
+Trier-Euren, Helena/Tempelherren	Stamm	21/09/02
+Trier-Pfalzel, Pankratius	Stamm	21/09/03
+Saarburg-Beurig, St. Franziskus	Stamm	21/09/06
+Trier-Heiligkreuz, Santa Cruz	Stamm	21/09/10
+Föhren, Don Bosco	Stamm	21/09/13
+Adenau	Stamm	21/10/01
+Grafschaft Ringen, G. Galilei	Stamm	21/10/03
+Andernach, St. Michael	Stamm	21/10/04
+Balu Hillesheim	Stamm	21/10/05
+Weißenthurm/Kettig, Feuer und Flamme	Stamm	21/10/06
+Kruft, Dionysius	Stamm	21/10/07
+Saffig Pellenzbande	Stamm	21/10/10
+Andernach, Am Nastberg Eich	Stamm	21/10/11
+Aschaffenburg-Innenstadt, Johannisburg	Stamm	22/01/01
+Mainaschaff, Ascapha	Stamm	22/01/02
+Stockstadt, Mauritius	Stamm	22/01/03
+Aschaffenburg-Gailbach, Guy de Larigaudie e.V.	Stamm	22/01/04
+Großwallstadt, Impeesa	Stamm	22/01/05
+Aschaffenburg/Schweinheim	Stamm	22/01/08
+Heimbuchenthal, Schwarzkittel	Stamm	22/01/09
+Albstadt	Stamm	22/01/10
+Mönchberg, Aubachtal	Stamm	22/01/11
+Elsenfeld, Germania	Stamm	22/01/12
+Alzenau	Stamm	22/01/13
+Großostheim	Stamm	22/01/14
+Würzburg-Lengfeld, St. Burkard	Stamm	22/03/04
+Würzburg-Sanderau, Fred Joseph	Stamm	22/03/05
+Würzburg-Heidingsfeld, Tilly	Stamm	22/03/06
+Würzburg-Rottenbauer, Wolfskeel	Stamm	22/03/07
+Würzburg-Frauenland, Greiffenclau	Stamm	22/03/09
+Gerolzhofen, Gralsritter	Stamm	22/05/01
+Euerbach, St. Michael	Stamm	22/05/03
+Schweinfurt, Tokwon	Stamm	22/05/04
+Niederwerrn, von Münster	Stamm	22/05/05
+Mellrichstadt, Martin Pollich	Stamm	22/05/06
+Ostheim	Stamm	22/05/08
+Haßfurt, Lichtenstein	Stamm	22/05/09
+Münnerstadt, Kreuzritter	Stamm	22/05/12
+Bad Kissingen, Henneberg	Stamm	22/05/13
+Nordheim/Rhön	Stamm	22/05/15
+Stockheim	Stamm	22/05/16
+Oberelsbach, Buchonia	Stamm	22/05/18
+Lohr-Sackenbach, Bonifatius	Stamm	22/08/02
+Roncalli Partenstein	Stamm	22/08/03
+Lohr-Sendelbach, St. Josef	Stamm	22/08/06
+Randersacker, St. Stephanus	Stamm	22/10/01
+Ochsenfurt, Konradin	Stamm	22/10/02
+Rimpar,Tilman Riemenschneider	Stamm	22/10/05
+Reichenberg/Hattenhausen	Stamm	22/10/06
+Stadtschwarzach	Stamm	22/10/09
+Leinach, Kardinal Döpfner	Stamm	22/10/11
+Eisingen, St. Nikolaus	Stamm	22/10/12
+Wertheim	Stamm	22/10/13
+Magdeburg, Unser lieben Frauen	Stamm	31/11/02
+Sangerhausen-Altstadt, St. Jutta	Stamm	31/15/01
+Badersleben, Sankt Martin e.V.	Stamm	31/16/01
+Blankenburg, St. Josef	Stamm	31/16/02
+Halle (Saale), Phönix	Stamm	31/17/05
+Drachentöter Dresden	Stamm	31/19/02
+Leipzig, Tilia	Stamm	31/19/03
+Jena, St. Michael	Stamm	32/00/01
+Uder, St. Jakobus	Stamm	32/60/03
+Heiligenstadt, St. Aegidien	Stamm	32/60/04
+Erfurt, St. Elisabeth	Stamm	32/60/08
+Weimar, Marcel Callo	Stamm	32/60/09
+Niederorschel, St. Marien	Stamm	32/60/13
+Hamburg-Eimsbüttel, Wilder Weiher	Stamm	33/00/02
+Hamburg-Rahlstedt, Mutter Teresa	Stamm	33/02/01
+Hamburg-Hamm, Charles de Foucauld	Stamm	33/02/02
+Hamburg-Farmsen, St. Ansgar	Stamm	33/02/03
+Hamburg-Blankenese, Jacques Marquette	Stamm	33/02/04
+Hamburg-Harburg, Kardinal Graf v. Galen	Stamm	33/02/05
+Hamburg-Neugraben, Störtebeker	Stamm	33/02/06
+Hamburg-Poppenbüttel, Don Bosco	Stamm	33/02/08
+Hamburg-Volksdorf, St. Martin	Stamm	33/02/10
+Ahrensburg, Camilo Torres	Stamm	33/02/12
+Norderstedt, St. Hedwig	Stamm	33/02/13
+Hamburg-Altona, Große Freiheit	Stamm	33/02/15
+Hamburg-Eidelstedt, Santa Lucia	Stamm	33/02/17
+Lübeck, Johannes Prassek	Stamm	33/03/03
+Rendsburg, Stern des Nordens	Stamm	33/03/04
+Bargteheide, Nepomuk	Stamm	33/03/05
+Digna Ochoa Quickborn	Stamm	33/03/06
+Nelson Mandela Halstenbek/Pinneberg	Stamm	33/03/07
+Itzehoe, Geschwister Scholl	Stamm	33/03/09
+Hückelhoven-Doveren, Kreuzherren	Siedlung	01/04/07
+Jakobiner	Siedlung	01/08/02
+Berlin-Tempelhof, Salvator	Siedlung	04/00/02
+Walzbachtal	Siedlung	07/10/01
+Remchingen, Eisingen	Siedlung	07/11/04
+Kaufungen	Siedlung	08/11/19
+St. Paulus, Oyten	Siedlung	09/04/19
+Lüneburg	Siedlung	09/04/20
+Rommerskirchen	Siedlung	10/06/05
+Phönix Neuss-Süd	Siedlung	10/06/11
+Pfadfinden in Rösrath	Siedlung	10/14/15
+Heidesheim	Siedlung	12/02/21
+München Hl. Kreuz - Forstenried	Siedlung	13/12/14
+Steinadler Talkessel Berchtesgaden	Siedlung	13/16/11
+Haltern am See	Siedlung	14/04/23
+Borkum, Nordlichter	Siedlung	15/00/02
+Fürstenzell	Siedlung	17/05/08
+Vilsbiburg	Siedlung	18/05/13
+Heilbronn - Über dem Salzgrund	Siedlung	19/09/18
+Ludwigswinkel	Siedlung	20/02/09
+Bad Hönningen	Siedlung	21/04/08
+Perl, St. Gervasius & Protasius	Siedlung	21/06/02
+Trier-Tarforst, Centarburs	Siedlung	21/09/08
+Burgenlandfalken Weißenfels	Siedlung	31/17/06
+Kiel Damiano	Siedlung	33/00/01
+Glinde, GerLinde	Siedlung	33/00/03

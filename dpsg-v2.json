@@ -38,7 +38,8 @@
                         "stammesnummer": "01\/01\/05",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Krefeld"
                     },
                     "Lank Rheinfranken": {
                         "typ": "Stamm",
@@ -91,6 +92,14 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Krefeld"
+                    },
+                    "Krefeld-Oppum, Zu den Hl. Schutzengeln, Die Brücke": {
+                        "typ": "Stamm",
+                        "nummer": 13,
+                        "stammesnummer": "01\/01\/13",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -139,7 +148,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "St. Sebastian"
+                        "ort": "Nettetal-Lobberich"
                     },
                     "St. Vitus Oedt": {
                         "typ": "Stamm",
@@ -147,7 +156,8 @@
                         "stammesnummer": "01\/02\/07",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Grefrath-Oedt"
                     },
                     "St. Peter": {
                         "typ": "Stamm",
@@ -200,6 +210,14 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Willich-Wekeln"
+                    },
+                    "Grefrath, Dorenburg, St. Laurentius": {
+                        "typ": "Stamm",
+                        "nummer": 11,
+                        "stammesnummer": "01\/02\/11",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -377,6 +395,23 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Hückelhoven-Doveren"
+                    },
+                    "Beeck": {
+                        "typ": "Stamm",
+                        "nummer": 11,
+                        "stammesnummer": "01\/04\/11",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Wegberg"
+                    },
+                    "Heinsberg-Schafhausen": {
+                        "typ": "Siedlung",
+                        "nummer": 9,
+                        "stammesnummer": "01\/04\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -704,7 +739,7 @@
                         "typ": "Stamm",
                         "nummer": 1,
                         "stammesnummer": "02\/01\/01",
-                        "ort": "Dillingen a. d. Donau ",
+                        "ort": "Dillingen",
                         "quellen": [
                             "https:\/\/www.scoutnet.de\/gruppen\/pfadfindergruppe-suchen\/1382"
                         ]
@@ -836,7 +871,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Augsburg-Haunstetten"
+                        "ort": "Augsburg-Haunst."
                     },
                     "Guy de Larigaudie": {
                         "typ": "Stamm",
@@ -1297,7 +1332,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Erlangen Bruck"
+                        "ort": "Erlangen-Bruck"
                     },
                     "Bubenreuth": {
                         "typ": "Stamm",
@@ -1560,6 +1595,14 @@
                     "https:\/\/www.dpsg-eichstaett.de\/index.php\/vor-ort\/spalt"
                 ],
                 "ort": "Spalt"
+            },
+            "Petersaurach": {
+                "typ": "Siedlung",
+                "nummer": 1,
+                "stammesnummer": "05\/03\/01",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ]
             }
         }
     },
@@ -1613,6 +1656,24 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Essen-Frohnhausen"
+                    },
+                    "Anne Frank": {
+                        "typ": "Stamm",
+                        "nummer": 1,
+                        "stammesnummer": "06\/01\/01",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Essen-Borbeck"
+                    },
+                    "Don Bosco \/ St. Dionysius": {
+                        "typ": "Stamm",
+                        "nummer": 11,
+                        "stammesnummer": "06\/01\/11",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Essen-Borbeck"
                     }
                 }
             },
@@ -1713,8 +1774,64 @@
             },
             "Oberhausen": {
                 "nummer": 3,
-                "status": "unklar",
-                "staemme": {}
+                "bezirksnummer": "06\/03\/00",
+                "status": "zusammengefuehrt",
+                "zusammengefuehrt_in": "06\/09\/00",
+                "staemme": {
+                    "St. Antonius": {
+                        "typ": "Stamm",
+                        "nummer": 1,
+                        "stammesnummer": "06\/03\/01",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2021-07\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Oberhausen"
+                    },
+                    "Oberhausen, Sterkrade-Mitte, St. Clemens": {
+                        "typ": "Stamm",
+                        "nummer": 3,
+                        "stammesnummer": "06\/03\/03",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2021-07\/satzung_anhang_gruppierungen.pdf"
+                        ]
+                    },
+                    "St. Katharina": {
+                        "typ": "Stamm",
+                        "nummer": 5,
+                        "stammesnummer": "06\/03\/05",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2021-07\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Oberhausen"
+                    },
+                    "U.L.F.": {
+                        "typ": "Stamm",
+                        "nummer": 6,
+                        "stammesnummer": "06\/03\/06",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2021-07\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Oberhausen"
+                    },
+                    "Heinrich Seuse": {
+                        "typ": "Stamm",
+                        "nummer": 8,
+                        "stammesnummer": "06\/03\/08",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2021-07\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Oberhausen"
+                    },
+                    "St. Theresia": {
+                        "typ": "Stamm",
+                        "nummer": 10,
+                        "stammesnummer": "06\/03\/10",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2021-07\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Oberhausen"
+                    }
+                }
             },
             "Bottrop\/Gladbeck": {
                 "nummer": 4,
@@ -1856,7 +1973,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "DPSG Bredenscheid"
+                        "ort": "Hattingen-Bredenscheid"
                     },
                     "Peter und Paul": {
                         "typ": "Stamm",
@@ -1874,7 +1991,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Wetter-Volmarstein"
+                        "ort": "Wetter-Volmst."
                     },
                     "Isenburg": {
                         "typ": "Stamm",
@@ -1966,7 +2083,8 @@
                         "stammesnummer": "06\/06\/08",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Gelsenkirchen-Heßler"
                     },
                     "Rochus Spiecker": {
                         "typ": "Stamm",
@@ -1992,7 +2110,8 @@
                         "stammesnummer": "06\/06\/13",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Gelsenkirchen-Rotth-Düppel"
                     },
                     "Gelsenkirchen, Herz Jesu, Angelo Giuseppe Roncalli": {
                         "typ": "Stamm",
@@ -2001,6 +2120,32 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "Gelsenkirchen-Ückendorf, St. Josef, Weiße Rose": {
+                        "typ": "Stamm",
+                        "nummer": 2,
+                        "stammesnummer": "06\/06\/02",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
+                    },
+                    "St. Urbanus\/ O. A. Romero": {
+                        "typ": "Stamm",
+                        "nummer": 12,
+                        "stammesnummer": "06\/06\/12",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Gelsenkirchen"
+                    },
+                    "St. Clemens Maria Hofbauer": {
+                        "typ": "Siedlung",
+                        "nummer": 18,
+                        "stammesnummer": "06\/06\/18",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Gelsenkirchen-Sutum"
                     }
                 }
             },
@@ -2064,6 +2209,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf",
                             "https:\/\/www.scoutnet.de\/gruppen\/pfadfindergruppe-suchen\/2451"
                         ]
+                    },
+                    "St. Jakobus": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "06\/07\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Breckerfeld"
                     }
                 }
             },
@@ -2184,25 +2338,45 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Bochum-Weitmar"
+                    },
+                    "Heilig Kreuz": {
+                        "typ": "Stamm",
+                        "nummer": 5,
+                        "stammesnummer": "06\/08\/05",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Bochum"
+                    },
+                    "St. Engelbert": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "06\/08\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Bochum-Dahlhausen"
                     }
                 }
             },
             "Mülheim\/Ruhr": {
                 "nummer": 9,
+                "bezirksnummer": "06\/09\/00",
                 "staemme": {
                     "St. Joseph": {
                         "typ": "Stamm",
                         "nummer": 1,
                         "stammesnummer": "06\/09\/01",
+                        "ort": "Mülheim\/Ruhr",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ],
-                        "ort": "Mülheim\/Ruhr"
+                        ]
                     },
                     "St. Mariae Rosenkranz": {
                         "typ": "Stamm",
                         "nummer": 2,
                         "stammesnummer": "06\/09\/02",
+                        "ort": "Mülheim",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
@@ -2211,24 +2385,28 @@
                         "typ": "Stamm",
                         "nummer": 3,
                         "stammesnummer": "06\/09\/03",
+                        "ort": "Mülheim a. d. R.",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ],
-                        "ort": "Mülheim a. d. R."
+                        ]
                     },
                     "St. Barbara": {
                         "typ": "Stamm",
                         "nummer": 4,
                         "stammesnummer": "06\/09\/04",
+                        "ort": "Mülheim",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ],
-                        "ort": "Mülheim"
+                        ]
                     },
-                    "Oberhausen, Sterkrade-Mitte, St. Clemens": {
+                    "St. Clemens": {
                         "typ": "Stamm",
                         "nummer": 5,
                         "stammesnummer": "06\/09\/05",
+                        "alte_stammesnummern": [
+                            "06\/03\/03"
+                        ],
+                        "ort": "Oberhausen, Sterkrade-Mitte",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
@@ -2237,28 +2415,37 @@
                         "typ": "Stamm",
                         "nummer": 6,
                         "stammesnummer": "06\/09\/06",
+                        "alte_stammesnummern": [
+                            "06\/03\/06"
+                        ],
+                        "ort": "Oberhausen",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ],
-                        "ort": "Oberhausen"
+                        ]
                     },
                     "Heinrich Seuse": {
                         "typ": "Stamm",
                         "nummer": 8,
                         "stammesnummer": "06\/09\/08",
+                        "alte_stammesnummern": [
+                            "06\/03\/08"
+                        ],
+                        "ort": "Oberhausen",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ],
-                        "ort": "Oberhausen"
+                        ]
                     },
                     "St. Theresia": {
                         "typ": "Stamm",
                         "nummer": 10,
                         "stammesnummer": "06\/09\/10",
+                        "alte_stammesnummern": [
+                            "06\/03\/10"
+                        ],
+                        "ort": "Oberhausen",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ],
-                        "ort": "Oberhausen"
+                        ]
                     }
                 }
             },
@@ -2366,6 +2553,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Essen-Haarzopf"
+                    },
+                    "Hl. Familie": {
+                        "typ": "Stamm",
+                        "nummer": 4,
+                        "stammesnummer": "06\/11\/04",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Essen-Marg."
                     }
                 }
             }
@@ -2574,6 +2770,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "St. Mauritius": {
+                        "typ": "Stamm",
+                        "nummer": 1,
+                        "stammesnummer": "07\/03\/01",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Hausach"
                     }
                 }
             },
@@ -2640,7 +2845,8 @@
                         "stammesnummer": "07\/05\/12",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Grenzach-Wyhlen"
                     }
                 }
             },
@@ -2820,6 +3026,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Markdorf"
+                    },
+                    "Rainbow": {
+                        "typ": "Stamm",
+                        "nummer": 15,
+                        "stammesnummer": "07\/07\/15",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Höri"
                     }
                 }
             },
@@ -2970,6 +3185,14 @@
                         "typ": "Stamm",
                         "nummer": 13,
                         "stammesnummer": "07\/09\/13",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
+                    },
+                    "Waibstadt": {
+                        "typ": "Siedlung",
+                        "nummer": 16,
+                        "stammesnummer": "07\/09\/16",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
@@ -3477,7 +3700,7 @@
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                 ],
-                "ort": "Großauheim"
+                "ort": "Grossauheim"
             },
             "Wartbaum": {
                 "typ": "Stamm",
@@ -3521,6 +3744,15 @@
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                 ]
+            },
+            "Speerflug": {
+                "typ": "Stamm",
+                "nummer": 5,
+                "stammesnummer": "08\/14\/05",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Hanau"
             }
         }
     },
@@ -3583,6 +3815,14 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Emmerke"
+                    },
+                    "Hohenhameln": {
+                        "typ": "Stamm",
+                        "nummer": 19,
+                        "stammesnummer": "09\/01\/19",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -3641,6 +3881,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Gieboldehausen"
+                    },
+                    "St. Barbara": {
+                        "typ": "Stamm",
+                        "nummer": 2,
+                        "stammesnummer": "09\/02\/02",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Osterode am Harz"
                     }
                 }
             },
@@ -3748,7 +3997,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Lilienthal bei Bremen"
+                        "ort": "Lilienthal b. Bremen"
                     },
                     "Oyten": {
                         "typ": "Siedlung",
@@ -3766,6 +4015,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "Christ König": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "09\/04\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Zeven"
                     }
                 }
             },
@@ -4426,6 +4684,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Gummersbach"
+                    },
+                    "St. Franziskus": {
+                        "typ": "Siedlung",
+                        "nummer": 3,
+                        "stammesnummer": "10\/09\/03",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Niederkassel-Lülsdorf\/Ranzel"
                     }
                 }
             },
@@ -4547,7 +4814,8 @@
                         "stammesnummer": "10\/13\/02",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Hennef-Warth"
                     },
                     "Idubag": {
                         "typ": "Stamm",
@@ -4865,7 +5133,7 @@
                 "typ": "Stamm",
                 "nummer": 9,
                 "stammesnummer": "11\/01\/09",
-                "ort": "Frankfurt am Main, Stadtteil Sachsenhausen",
+                "ort": "Frankfurt-Sachsenhausen",
                 "gruendungsjahr": 1950,
                 "web": "https:\/\/www.dpsg-stbonifatius.de\/",
                 "quellen": [
@@ -4961,7 +5229,8 @@
                 "stammesnummer": "11\/03\/08",
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                ]
+                ],
+                "ort": "Langenhain-Lorsbach"
             },
             "Taunus-Wölfe": {
                 "typ": "Stamm",
@@ -5064,6 +5333,24 @@
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                 ]
+            },
+            "Don Quijote": {
+                "typ": "Stamm",
+                "nummer": 7,
+                "stammesnummer": "11\/02\/07",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Bad Schwalbach"
+            },
+            "Lubentius": {
+                "typ": "Stamm",
+                "nummer": 4,
+                "stammesnummer": "11\/04\/04",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Lahnstein"
             }
         }
     },
@@ -5400,6 +5687,24 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "St. Antonius": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "12\/03\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Pfungstadt"
+                    },
+                    "Franz von Assisi": {
+                        "typ": "Siedlung",
+                        "nummer": 26,
+                        "stammesnummer": "12\/03\/26",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Abtsteinach"
                     }
                 }
             }
@@ -5452,7 +5757,8 @@
                         "stammesnummer": "13\/12\/07",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Grosshesselohe"
                     },
                     "St. Ansgar": {
                         "typ": "Stamm",
@@ -5669,6 +5975,24 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "München-Westend"
+                    },
+                    "St. Magdalena": {
+                        "typ": "Stamm",
+                        "nummer": 2,
+                        "stammesnummer": "13\/14\/02",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Fürstenfeldbruck"
+                    },
+                    "St. Marold - evtl. Neugründung": {
+                        "typ": "Siedlung",
+                        "nummer": 15,
+                        "stammesnummer": "13\/14\/15",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Markt-Indersdorf"
                     }
                 }
             },
@@ -5749,7 +6073,8 @@
                         "stammesnummer": "13\/16\/06",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Polling"
                     },
                     "Surberg": {
                         "typ": "Stamm",
@@ -6012,7 +6337,8 @@
                         "stammesnummer": "14\/01\/04",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Goch- Gaesdonck"
                     },
                     "St. Georg": {
                         "typ": "Stamm",
@@ -6293,6 +6619,14 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Lindern"
+                    },
+                    "Wilhelmshaven, St. Peter, Niels Stensen": {
+                        "typ": "Siedlung",
+                        "nummer": 15,
+                        "stammesnummer": "14\/02\/15",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -6401,6 +6735,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Gescher"
+                    },
+                    "Herz-Jesu": {
+                        "typ": "Stamm",
+                        "nummer": 3,
+                        "stammesnummer": "14\/03\/03",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Bocholt"
                     }
                 }
             },
@@ -6448,7 +6791,8 @@
                         "stammesnummer": "14\/04\/09",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Dorsten"
                     },
                     "St. Elisabeth": {
                         "typ": "Stamm",
@@ -6628,6 +6972,24 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "St. Johannes": {
+                        "typ": "Stamm",
+                        "nummer": 11,
+                        "stammesnummer": "14\/05\/11",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Altenberge"
+                    },
+                    "St. Antonius": {
+                        "typ": "Stamm",
+                        "nummer": 13,
+                        "stammesnummer": "14\/05\/13",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Hörstel"
                     }
                 }
             },
@@ -6786,7 +7148,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "St. Anna Mecklenbeck Albachten Roxel Aaseestadt"
+                        "ort": "St. Anna Mecklenbeck"
                     },
                     "St. Franziskus": {
                         "typ": "Stamm",
@@ -6803,7 +7165,8 @@
                         "stammesnummer": "14\/07\/17",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Münster"
                     }
                 }
             },
@@ -6889,6 +7252,24 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Voerde-Spellen"
+                    },
+                    "Martinus": {
+                        "typ": "Stamm",
+                        "nummer": 5,
+                        "stammesnummer": "14\/08\/05",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Moers-Repelen"
+                    },
+                    "St. Peter": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "14\/08\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Duisburg-Homberg"
                     }
                 }
             },
@@ -6971,6 +7352,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "St. Pankratius": {
+                        "typ": "Stamm",
+                        "nummer": 6,
+                        "stammesnummer": "14\/09\/06",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Buldern"
                     }
                 }
             }
@@ -7100,6 +7490,24 @@
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                 ],
                 "ort": "Borkum"
+            },
+            "Polarstern": {
+                "typ": "Stamm",
+                "nummer": 3,
+                "stammesnummer": "15\/01\/03",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Lathen"
+            },
+            "St. Bonifatius": {
+                "typ": "Stamm",
+                "nummer": 12,
+                "stammesnummer": "15\/01\/12",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Lingen"
             }
         }
     },
@@ -7167,7 +7575,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Dortmund-Soelde"
+                        "ort": "Dortmund-Obereving"
                     },
                     "St. Urbanus": {
                         "typ": "Stamm",
@@ -7294,7 +7702,8 @@
                         "stammesnummer": "16\/02\/01",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Unna"
                     },
                     "Hohenlimburg": {
                         "typ": "Stamm",
@@ -7320,7 +7729,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Schwerte-Ost"
+                        "ort": "Witten"
                     },
                     "St. Elisabeth": {
                         "typ": "Stamm",
@@ -7337,7 +7746,8 @@
                         "stammesnummer": "16\/02\/07",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Witten"
                     },
                     "St. Urban Ende-Syburg": {
                         "typ": "Stamm",
@@ -7538,7 +7948,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Neheim"
+                        "ort": "Arnsberg-Neheim"
                     },
                     "Sankt Ludgerus": {
                         "typ": "Stamm",
@@ -7610,6 +8020,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Meschede"
+                    },
+                    "Salamun": {
+                        "typ": "Stamm",
+                        "nummer": 15,
+                        "stammesnummer": "16\/04\/15",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Sundern"
                     }
                 }
             },
@@ -7685,6 +8104,32 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Wilnsdorf-Rudersdorf"
+                    },
+                    "Dautenbach": {
+                        "typ": "Stamm",
+                        "nummer": 11,
+                        "stammesnummer": "16\/05\/11",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Siegen"
+                    },
+                    "Wenden-Gerlingen\/ Abt. Anton.": {
+                        "typ": "Stamm",
+                        "nummer": 12,
+                        "stammesnummer": "16\/05\/12",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
+                    },
+                    "St. Marien": {
+                        "typ": "Stamm",
+                        "nummer": 14,
+                        "stammesnummer": "16\/05\/14",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Freudenberg"
                     }
                 }
             },
@@ -7797,7 +8242,8 @@
                         "stammesnummer": "16\/08\/03",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Lüchtringen"
                     },
                     "St. Anna": {
                         "typ": "Stamm",
@@ -7826,6 +8272,35 @@
                         ]
                     }
                 }
+            }
+        },
+        "staemme": {
+            "St. Lambertus": {
+                "typ": "Stamm",
+                "nummer": 1,
+                "stammesnummer": "16\/07\/01",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Castrop-Rauxel"
+            },
+            "Amelungen": {
+                "typ": "Stamm",
+                "nummer": 3,
+                "stammesnummer": "16\/07\/03",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Herne"
+            },
+            "Franziskus": {
+                "typ": "Stamm",
+                "nummer": 5,
+                "stammesnummer": "16\/07\/05",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Herne-Eickel"
             }
         }
     },
@@ -7970,6 +8445,23 @@
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                 ]
+            },
+            "Passau-Neustift": {
+                "typ": "Stamm",
+                "nummer": 5,
+                "stammesnummer": "17\/03\/05",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ]
+            },
+            "St. Michael": {
+                "typ": "Siedlung",
+                "nummer": 2,
+                "stammesnummer": "17\/03\/02",
+                "quellen": [
+                    "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                ],
+                "ort": "Passau-Grubweg"
             }
         }
     },
@@ -8187,6 +8679,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "St. Jakob": {
+                        "typ": "Stamm",
+                        "nummer": 8,
+                        "stammesnummer": "18\/05\/08",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Straubing"
                     }
                 }
             },
@@ -8294,6 +8795,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "St. Anton": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "18\/06\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Regensburg"
                     }
                 }
             },
@@ -8314,7 +8824,8 @@
                         "stammesnummer": "18\/07\/03",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Kelheim"
                     },
                     "Christ König": {
                         "typ": "Stamm",
@@ -8402,6 +8913,14 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Leonberg"
+                    },
+                    "Stuttgart-Neugereut": {
+                        "typ": "Stamm",
+                        "nummer": 6,
+                        "stammesnummer": "19\/01\/06",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -8438,6 +8957,14 @@
                         "typ": "Stamm",
                         "nummer": 9,
                         "stammesnummer": "19\/02\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
+                    },
+                    "Plochingen": {
+                        "typ": "Stamm",
+                        "nummer": 8,
+                        "stammesnummer": "19\/02\/08",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
@@ -8611,6 +9138,22 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Schwäbisch-Gmünd"
+                    },
+                    "Uhingen": {
+                        "typ": "Stamm",
+                        "nummer": 9,
+                        "stammesnummer": "19\/04\/09",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
+                    },
+                    "Gingen\/Fils": {
+                        "typ": "Stamm",
+                        "nummer": 10,
+                        "stammesnummer": "19\/04\/10",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -8704,6 +9247,15 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Weingarten"
+                    },
+                    "St. Martin": {
+                        "typ": "Stamm",
+                        "nummer": 8,
+                        "stammesnummer": "19\/06\/08",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Mengen"
                     }
                 }
             },
@@ -8774,7 +9326,8 @@
                         "stammesnummer": "19\/08\/02",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Bopfingen"
                     },
                     "St. Veit": {
                         "typ": "Stamm",
@@ -8843,6 +9396,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "Leonhard": {
+                        "typ": "Stamm",
+                        "nummer": 7,
+                        "stammesnummer": "19\/08\/07",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Schwäbisch Gmünd-Hussh"
                     }
                 }
             },
@@ -9088,6 +9650,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "Christ König - St. Anton": {
+                        "typ": "Stamm",
+                        "nummer": 7,
+                        "stammesnummer": "20\/02\/07",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "Pirmasens-Winzeln"
                     }
                 }
             },
@@ -9218,7 +9789,7 @@
                         "typ": "Stamm",
                         "nummer": 5,
                         "stammesnummer": "20\/04\/05",
-                        "ort": "Heckendalheim",
+                        "ort": "Mandelbachtal\/Heckendalh.",
                         "web": "https:\/\/www.dpsg-heckendalheim.de\/",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
@@ -9228,7 +9799,7 @@
                         "typ": "Stamm",
                         "nummer": 5,
                         "stammesnummer": "20\/04\/07",
-                        "ort": "Homburg-Jägersburg",
+                        "ort": "Homburg-Jägersb.",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
@@ -9247,7 +9818,8 @@
                         "stammesnummer": "20\/04\/10",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                        ]
+                        ],
+                        "ort": "Homburg"
                     },
                     "Niederwürzbach": {
                         "typ": "Stamm",
@@ -9264,6 +9836,15 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "Eulenspiegel": {
+                        "typ": "Stamm",
+                        "nummer": 15,
+                        "stammesnummer": "20\/04\/15",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ],
+                        "ort": "St. Ingbert"
                     }
                 }
             },
@@ -9560,6 +10141,14 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
+                    },
+                    "Shalom Windesheim": {
+                        "typ": "Siedlung",
+                        "nummer": 12,
+                        "stammesnummer": "21\/03\/12",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -9709,6 +10298,14 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Saarbrücken"
+                    },
+                    "Spellenstein-Rentrisch": {
+                        "typ": "Stamm",
+                        "nummer": 8,
+                        "stammesnummer": "21\/05\/08",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
@@ -9722,7 +10319,7 @@
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
-                        "ort": "Roden"
+                        "ort": "DPSG Roden"
                     },
                     "St. Nikolaus": {
                         "typ": "Stamm",
@@ -9968,9 +10565,13 @@
     },
     "Würzburg": {
         "nummer": 22,
+        "gruendungsjahr": 1932,
+        "web": "https:\/\/www.dpsg-wuerzburg.de\/",
         "bezirke": {
             "Untermain": {
                 "nummer": 1,
+                "gruendungsjahr": 1932,
+                "email": "bez-uma@dpsg-wuerzburg.de",
                 "staemme": {
                     "Johannisburg": {
                         "typ": "Stamm",
@@ -10080,6 +10681,7 @@
             },
             "St. Kilian": {
                 "nummer": 3,
+                "email": "vorstand@bezirk-st-kilian.de",
                 "staemme": {
                     "St. Burkard": {
                         "typ": "Stamm",
@@ -10130,6 +10732,8 @@
             },
             "Genesis Nord": {
                 "nummer": 5,
+                "email": "bez-geno@dpsg-wuerzburg.de",
+                "web": "https:\/\/dpsg-bezirk-geno.de\/",
                 "staemme": {
                     "Gralsritter": {
                         "typ": "Stamm",
@@ -10235,11 +10839,20 @@
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ],
                         "ort": "Oberelsbach"
+                    },
+                    "Rödelmaier": {
+                        "typ": "Stamm",
+                        "nummer": 17,
+                        "stammesnummer": "22\/05\/17",
+                        "quellen": [
+                            "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
+                        ]
                     }
                 }
             },
             "Main-Spessart": {
                 "nummer": 8,
+                "email": "bez-msp@dpsg-wuerzburg.de",
                 "staemme": {
                     "Bonifatius": {
                         "typ": "Stamm",
@@ -10352,6 +10965,7 @@
                         "ort": "Wertheim",
                         "nummer": 13,
                         "stammesnummer": "22\/10\/13",
+                        "status": "unklar",
                         "quellen": [
                             "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                         ]
@@ -10443,7 +11057,8 @@
                 "stammesnummer": "31\/19\/02",
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
-                ]
+                ],
+                "ort": "Dresden-Löbtau"
             },
             "Tilia": {
                 "typ": "Stamm",
@@ -10668,7 +11283,7 @@
                 "typ": "Stamm",
                 "nummer": 7,
                 "stammesnummer": "33\/03\/07",
-                "ort": "Halstenbek\/Pinneberg",
+                "ort": "Halstenbek",
                 "quellen": [
                     "https:\/\/www.dpsg.de\/sites\/default\/files\/2026-01\/satzung_anhang_gruppierungen.pdf"
                 ]
